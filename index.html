@@ -110,10 +110,10 @@ async function main() {
   ]);
 
   document.querySelector("#eventCount").textContent = `${events.length} Events`;
-  document.querySelector("#generated").textContent = formatDateTime(meta.generated_at);
-  document.querySelector("#lastChecked").textContent = formatDateTime(meta.last_checked_at);
-  document.querySelector("#lastChange").textContent = formatDateTime(meta.last_change_detected_at);
-  document.querySelector("#sourceUpdated").textContent = formatDateTime(meta.source_last_modified);
+  document.querySelector("#generated").textContent = meta.generated_label || formatDateTime(meta.generated_at);
+  document.querySelector("#lastChecked").textContent = meta.last_checked_label || formatDateTime(meta.last_checked_at);
+  document.querySelector("#lastChange").textContent = meta.last_change_detected_label || formatDateTime(meta.last_change_detected_at);
+  document.querySelector("#sourceUpdated").textContent = meta.source_last_modified_label || formatDateTime(meta.source_last_modified);
   document.querySelector("#changeSummary").textContent =
     `Neu: ${changes.summary.added} | Entfernt: ${changes.summary.removed} | Geaendert: ${changes.summary.changed}`;
 
