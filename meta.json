@@ -1,12 +1,12 @@
 {
   "event_count": 217,
-  "generated_at": "2026-07-01T22:06:02.442875+00:00",
-  "generated_label": "02.07.2026 00:06",
+  "generated_at": "2026-07-01T22:11:04.198670+00:00",
+  "generated_label": "02.07.2026 00:11",
   "hash": "fad4aba14fbcdde5ba0772e7279be27bef1f3bf7207fc7fd394d91f3ada5c81c",
   "last_change_detected_at": null,
   "last_change_detected_label": "noch keine",
-  "last_checked_at": "2026-07-01T22:06:02.427083+00:00",
-  "last_checked_label": "02.07.2026 00:06",
+  "last_checked_at": "2026-07-01T22:11:04.189170+00:00",
+  "last_checked_label": "02.07.2026 00:11",
   "source_last_modified": "Mon, 29 Jun 2026 14:59:32 GMT",
   "source_last_modified_label": "29.06.2026 16:59",
   "timezone": "Europe/Berlin"
