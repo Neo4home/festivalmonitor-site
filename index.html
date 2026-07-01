@@ -37,7 +37,7 @@ a { color: #9fd0ff; }
       <span>Letzte echte Aenderung: <span id="lastChange">...</span></span>
       <span>Seite erzeugt: <span id="generated">...</span></span>
     </div>
-    <nav class="nav"><a href="index.html">Liste</a><a href="timetable.html">Stundenplan</a><a href="standalone.html">Standalone</a><a href="running-order.pdf">PDF farbig</a><a href="running-order-marker.pdf">PDF Marker</a></nav>
+    <nav class="nav"><a href="index.html">Liste</a><a href="timetable.html">Stundenplan</a><a href="running-order.pdf">PDF farbig</a><a href="running-order-marker.pdf">PDF Marker</a></nav>
   </header>
   <main>
     <section class="changes">
@@ -136,7 +136,7 @@ main().catch(error => {
     <section class="changes">
       <strong>Fehler beim Laden der JSON-Dateien.</strong>
       <p>Wenn du index.html direkt per Doppelklick geoeffnet hast, blockiert dein Browser wahrscheinlich lokale fetch()-Zugriffe.</p>
-      <p>Nutze entweder <code>standalone.html</code> oder starte lokal <code>python serve.py</code> und oeffne dann <code>http://127.0.0.1:8000/</code>.</p>
+      <p>Starte lokal <code>python serve.py</code> und oeffne dann <code>http://127.0.0.1:8000/</code>.</p>
       <p class="muted">${error.message}</p>
     </section>
   `;
