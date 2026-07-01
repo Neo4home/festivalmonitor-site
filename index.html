@@ -50,7 +50,7 @@ a { color: #9fd0ff; }
     </section>
     <table>
       <thead>
-        <tr><th>Tag</th><th>Zeit</th><th>Artist</th><th>Stage</th><th>Typ</th></tr>
+        <tr><th>Tag</th><th>Zeit</th><th>Artist</th><th>Stage</th></tr>
       </thead>
       <tbody></tbody>
     </table>
@@ -96,7 +96,6 @@ function render(events) {
       <td data-label="Zeit">${event.start_label} - ${event.end_label}</td>
       <td data-label="Artist" class="artist">${artists(event)}</td>
       <td data-label="Stage" class="stage">${event.stage}</td>
-      <td data-label="Typ">${event.type}</td>
     `;
     tbody.appendChild(tr);
   }
