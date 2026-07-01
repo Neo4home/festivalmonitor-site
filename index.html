@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wacken Running Order Monitor</title>
+  <style>body { margin: 0; font-family: Arial, sans-serif; background: #101014; color: #f2f2f2; }
+header { padding: 24px; background: #191920; border-bottom: 1px solid #30303a; }
+main { max-width: 1200px; margin: 0 auto; padding: 20px; }
+h1 { margin: 0 0 8px; font-size: 28px; }
+.muted { color: #aaa; }
+.toolbar { display: flex; gap: 12px; flex-wrap: wrap; margin: 18px 0; }
+input, select { background: #181820; color: #fff; border: 1px solid #3b3b46; padding: 10px; border-radius: 6px; }
+table { width: 100%; border-collapse: collapse; background: #17171d; }
+th, td { padding: 10px; border-bottom: 1px solid #2d2d36; text-align: left; vertical-align: top; }
+th { position: sticky; top: 0; background: #202028; }
+.artist { font-weight: 700; }
+.stage { color: #9fd0ff; }
+.changes { margin: 16px 0; padding: 12px; border: 1px solid #3b3b46; border-radius: 6px; background: #17171d; }
+.nav { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 12px; }
+a { color: #9fd0ff; }
+@media (max-width: 760px) {
+  table, thead, tbody, tr, th, td { display: block; }
+  thead { display: none; }
+  tr { padding: 10px 0; border-bottom: 1px solid #2d2d36; }
+  td { border: 0; padding: 4px 0; }
+  td::before { content: attr(data-label) ": "; color: #aaa; }
+}</style>
+</head>
+<body>
+  <header>
+    <h1>Wacken Running Order</h1>
+    <div class="muted">Online-Version - <span id="eventCount">...</span> - <span id="generated">...</span></div>
+    <nav class="nav"><a href="index.html">Liste</a><a href="timetable.html">Stundenplan</a><a href="standalone.html">Standalone</a></nav>
+  </header>
+  <main>
+    <section class="changes">
+      <strong>Letzter Diff:</strong> <span id="changeSummary">...</span>
+      <div class="muted">Rohdaten: <a href="latest.json">latest.json</a> - <a href="changes.json">changes.json</a></div>
+    </section>
+    <section class="toolbar">
+      <input id="query" placeholder="Artist, Stage oder Tag suchen">
+      <select id="stage"><option value="">Alle Stages</option></select>
+    </section>
+    <table>
+      <thead>
+        <tr><th>Tag</th><th>Zeit</th><th>Artist</th><th>Stage</th><th>Typ</th></tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </main>
+  <script>async function loadJson(path) {
+  const response = await fetch(path, { cache: "no-store" });
+  if (!response.ok) throw new Error(path + " failed");
+  return response.json();
+}
+
+function artists(event) {
+  return (event.artists && event.artists.length ? event.artists : ["TBA"]).join(", ");
+}
+
+function render(events) {
+  const query = document.querySelector("#query").value.toLowerCase();
+  const stage = document.querySelector("#stage").value;
+  const tbody = document.querySelector("tbody");
+  tbody.innerHTML = "";
+
+  for (const event of events) {
+    const text = `${artists(event)} ${event.stage} ${event.day}`.toLowerCase();
+    if (query && !text.includes(query)) continue;
+    if (stage && event.stage !== stage) continue;
+
+    const tr = document.createElement("tr");
+    tr.innerHTML = `
+      <td data-label="Tag">${event.day}</td>
+      <td data-label="Zeit">${event.start_label} - ${event.end_label}</td>
+      <td data-label="Artist" class="artist">${artists(event)}</td>
+      <td data-label="Stage" class="stage">${event.stage}</td>
+      <td data-label="Typ">${event.type}</td>
+    `;
+    tbody.appendChild(tr);
+  }
+}
+
+async function main() {
+  const [events, changes, meta] = await Promise.all([
+    loadJson("latest.json"),
+    loadJson("changes.json"),
+    loadJson("meta.json"),
+  ]);
+
+  document.querySelector("#eventCount").textContent = `${events.length} Events`;
+  document.querySelector("#generated").textContent = `Generiert: ${meta.generated_at}`;
+  document.querySelector("#changeSummary").textContent =
+    `Neu: ${changes.summary.added} | Entfernt: ${changes.summary.removed} | Geaendert: ${changes.summary.changed}`;
+
+  const stages = [...new Set(events.map(event => event.stage).filter(Boolean))].sort();
+  const stageSelect = document.querySelector("#stage");
+  for (const stage of stages) {
+    const option = document.createElement("option");
+    option.value = stage;
+    option.textContent = stage;
+    stageSelect.appendChild(option);
+  }
+
+  document.querySelector("#query").addEventListener("input", () => render(events));
+  stageSelect.addEventListener("change", () => render(events));
+  render(events);
+}
+
+main().catch(error => {
+  document.querySelector("main").innerHTML = `
+    <section class="changes">
+      <strong>Fehler beim Laden der JSON-Dateien.</strong>
+      <p>Wenn du index.html direkt per Doppelklick geoeffnet hast, blockiert dein Browser wahrscheinlich lokale fetch()-Zugriffe.</p>
+      <p>Nutze entweder <code>standalone.html</code> oder starte lokal <code>python serve.py</code> und oeffne dann <code>http://127.0.0.1:8000/</code>.</p>
+      <p class="muted">${error.message}</p>
+    </section>
+  `;
+});</script>
+</body>
+</html>
