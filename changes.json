@@ -1,10 +1,479 @@
 {
   "added": [],
-  "changed": [],
+  "changed": [
+    {
+      "after": {
+        "artists": [
+          "Seers of Light"
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785316800,
+        "id": 2609,
+        "stage": "W:E:T Stage",
+        "stage_id": 8,
+        "start": 1785315600,
+        "type": "Concert"
+      },
+      "before": {
+        "artists": [
+          "Metal Battle tba."
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785316800,
+        "id": 2609,
+        "stage": "W:E:T Stage",
+        "stage_id": 8,
+        "start": 1785315600,
+        "type": "Concert"
+      },
+      "fields": {
+        "artists": {
+          "new": [
+            "Seers of Light"
+          ],
+          "old": [
+            "Metal Battle tba."
+          ]
+        }
+      },
+      "id": 2609
+    },
+    {
+      "after": {
+        "artists": [
+          "Gannondorf"
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785318300,
+        "id": 2622,
+        "stage": "Headbangers Stage",
+        "stage_id": 7,
+        "start": 1785317100,
+        "type": "Concert"
+      },
+      "before": {
+        "artists": [
+          "Metal Battle tba."
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785318300,
+        "id": 2622,
+        "stage": "Headbangers Stage",
+        "stage_id": 7,
+        "start": 1785317100,
+        "type": "Concert"
+      },
+      "fields": {
+        "artists": {
+          "new": [
+            "Gannondorf"
+          ],
+          "old": [
+            "Metal Battle tba."
+          ]
+        }
+      },
+      "id": 2622
+    },
+    {
+      "after": {
+        "artists": [
+          "I See Red"
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785322800,
+        "id": 2611,
+        "stage": "W:E:T Stage",
+        "stage_id": 8,
+        "start": 1785321600,
+        "type": "Concert"
+      },
+      "before": {
+        "artists": [
+          "Metal Battle tba."
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785322800,
+        "id": 2611,
+        "stage": "W:E:T Stage",
+        "stage_id": 8,
+        "start": 1785321600,
+        "type": "Concert"
+      },
+      "fields": {
+        "artists": {
+          "new": [
+            "I See Red"
+          ],
+          "old": [
+            "Metal Battle tba."
+          ]
+        }
+      },
+      "id": 2611
+    },
+    {
+      "after": {
+        "artists": [
+          "Human Nebula"
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785324300,
+        "id": 2624,
+        "stage": "Headbangers Stage",
+        "stage_id": 7,
+        "start": 1785323100,
+        "type": "Concert"
+      },
+      "before": {
+        "artists": [
+          "Metal Battle tba."
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785324300,
+        "id": 2624,
+        "stage": "Headbangers Stage",
+        "stage_id": 7,
+        "start": 1785323100,
+        "type": "Concert"
+      },
+      "fields": {
+        "artists": {
+          "new": [
+            "Human Nebula"
+          ],
+          "old": [
+            "Metal Battle tba."
+          ]
+        }
+      },
+      "id": 2624
+    },
+    {
+      "after": {
+        "artists": [
+          "Dead Memories"
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785327300,
+        "id": 2625,
+        "stage": "Headbangers Stage",
+        "stage_id": 7,
+        "start": 1785326100,
+        "type": "Concert"
+      },
+      "before": {
+        "artists": [
+          "Metal Battle tba."
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785327300,
+        "id": 2625,
+        "stage": "Headbangers Stage",
+        "stage_id": 7,
+        "start": 1785326100,
+        "type": "Concert"
+      },
+      "fields": {
+        "artists": {
+          "new": [
+            "Dead Memories"
+          ],
+          "old": [
+            "Metal Battle tba."
+          ]
+        }
+      },
+      "id": 2625
+    },
+    {
+      "after": {
+        "artists": [
+          "Witchlords"
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785340200,
+        "id": 2616,
+        "stage": "W:E:T Stage",
+        "stage_id": 8,
+        "start": 1785339000,
+        "type": "Concert"
+      },
+      "before": {
+        "artists": [
+          "Metal Battle tba."
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785340200,
+        "id": 2616,
+        "stage": "W:E:T Stage",
+        "stage_id": 8,
+        "start": 1785339000,
+        "type": "Concert"
+      },
+      "fields": {
+        "artists": {
+          "new": [
+            "Witchlords"
+          ],
+          "old": [
+            "Metal Battle tba."
+          ]
+        }
+      },
+      "id": 2616
+    },
+    {
+      "after": {
+        "artists": [
+          "Noiduin"
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785341700,
+        "id": 2629,
+        "stage": "Headbangers Stage",
+        "stage_id": 7,
+        "start": 1785340500,
+        "type": "Concert"
+      },
+      "before": {
+        "artists": [
+          "Metal Battle tba."
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785341700,
+        "id": 2629,
+        "stage": "Headbangers Stage",
+        "stage_id": 7,
+        "start": 1785340500,
+        "type": "Concert"
+      },
+      "fields": {
+        "artists": {
+          "new": [
+            "Noiduin"
+          ],
+          "old": [
+            "Metal Battle tba."
+          ]
+        }
+      },
+      "id": 2629
+    },
+    {
+      "after": {
+        "artists": [
+          "Invasion"
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785344700,
+        "id": 2630,
+        "stage": "Headbangers Stage",
+        "stage_id": 7,
+        "start": 1785343500,
+        "type": "Concert"
+      },
+      "before": {
+        "artists": [
+          "Metal Battle tba."
+        ],
+        "day": "Wednesday",
+        "day_id": 34,
+        "end": 1785344700,
+        "id": 2630,
+        "stage": "Headbangers Stage",
+        "stage_id": 7,
+        "start": 1785343500,
+        "type": "Concert"
+      },
+      "fields": {
+        "artists": {
+          "new": [
+            "Invasion"
+          ],
+          "old": [
+            "Metal Battle tba."
+          ]
+        }
+      },
+      "id": 2630
+    },
+    {
+      "after": {
+        "artists": [
+          "Death Row"
+        ],
+        "day": "Thursday",
+        "day_id": 35,
+        "end": 1785409200,
+        "id": 2662,
+        "stage": "W:E:T Stage",
+        "stage_id": 8,
+        "start": 1785408000,
+        "type": "Concert"
+      },
+      "before": {
+        "artists": [
+          "Metal Battle tba."
+        ],
+        "day": "Thursday",
+        "day_id": 35,
+        "end": 1785409200,
+        "id": 2662,
+        "stage": "W:E:T Stage",
+        "stage_id": 8,
+        "start": 1785408000,
+        "type": "Concert"
+      },
+      "fields": {
+        "artists": {
+          "new": [
+            "Death Row"
+          ],
+          "old": [
+            "Metal Battle tba."
+          ]
+        }
+      },
+      "id": 2662
+    },
+    {
+      "after": {
+        "artists": [
+          "Sentient Void"
+        ],
+        "day": "Thursday",
+        "day_id": 35,
+        "end": 1785412200,
+        "id": 2663,
+        "stage": "W:E:T Stage",
+        "stage_id": 8,
+        "start": 1785411000,
+        "type": "Concert"
+      },
+      "before": {
+        "artists": [
+          "Metal Battle tba."
+        ],
+        "day": "Thursday",
+        "day_id": 35,
+        "end": 1785412200,
+        "id": 2663,
+        "stage": "W:E:T Stage",
+        "stage_id": 8,
+        "start": 1785411000,
+        "type": "Concert"
+      },
+      "fields": {
+        "artists": {
+          "new": [
+            "Sentient Void"
+          ],
+          "old": [
+            "Metal Battle tba."
+          ]
+        }
+      },
+      "id": 2663
+    },
+    {
+      "after": {
+        "artists": [
+          "Rise of Shadows"
+        ],
+        "day": "Thursday",
+        "day_id": 35,
+        "end": 1785418200,
+        "id": 2665,
+        "stage": "W:E:T Stage",
+        "stage_id": 8,
+        "start": 1785417000,
+        "type": "Concert"
+      },
+      "before": {
+        "artists": [
+          "Metal Battle tba."
+        ],
+        "day": "Thursday",
+        "day_id": 35,
+        "end": 1785418200,
+        "id": 2665,
+        "stage": "W:E:T Stage",
+        "stage_id": 8,
+        "start": 1785417000,
+        "type": "Concert"
+      },
+      "fields": {
+        "artists": {
+          "new": [
+            "Rise of Shadows"
+          ],
+          "old": [
+            "Metal Battle tba."
+          ]
+        }
+      },
+      "id": 2665
+    },
+    {
+      "after": {
+        "artists": [
+          "Days of Ruin"
+        ],
+        "day": "Thursday",
+        "day_id": 35,
+        "end": 1785419700,
+        "id": 2675,
+        "stage": "Headbangers Stage",
+        "stage_id": 7,
+        "start": 1785418500,
+        "type": "Concert"
+      },
+      "before": {
+        "artists": [
+          "Metal Battle tba."
+        ],
+        "day": "Thursday",
+        "day_id": 35,
+        "end": 1785419700,
+        "id": 2675,
+        "stage": "Headbangers Stage",
+        "stage_id": 7,
+        "start": 1785418500,
+        "type": "Concert"
+      },
+      "fields": {
+        "artists": {
+          "new": [
+            "Days of Ruin"
+          ],
+          "old": [
+            "Metal Battle tba."
+          ]
+        }
+      },
+      "id": 2675
+    }
+  ],
   "removed": [],
   "summary": {
     "added": 0,
-    "changed": 0,
+    "changed": 12,
     "removed": 0
   }
 }
