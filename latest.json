@@ -77,6 +77,44 @@
   },
   {
     "artists": [
+      "Wildcover"
+    ],
+    "day": "Sunday",
+    "day_id": 31,
+    "end": 1785086100,
+    "end_iso": "2026-07-26T19:15:00+02:00",
+    "end_label": "Sun 26.07. 19:15",
+    "end_short_label": "19:15",
+    "id": 2825,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785083400,
+    "start_iso": "2026-07-26T18:30:00+02:00",
+    "start_label": "Sun 26.07. 18:30",
+    "start_short_label": "18:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Acoustic Guerillas feat Ellerbek Pussyboys"
+    ],
+    "day": "Sunday",
+    "day_id": 31,
+    "end": 1785090600,
+    "end_iso": "2026-07-26T20:30:00+02:00",
+    "end_label": "Sun 26.07. 20:30",
+    "end_short_label": "20:30",
+    "id": 2826,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785087900,
+    "start_iso": "2026-07-26T19:45:00+02:00",
+    "start_label": "Sun 26.07. 19:45",
+    "start_short_label": "19:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Jäst"
     ],
     "day": "Sunday",
@@ -172,6 +210,25 @@
   },
   {
     "artists": [
+      "Mambo Kurt"
+    ],
+    "day": "Monday",
+    "day_id": 32,
+    "end": 1785175200,
+    "end_iso": "2026-07-27T20:00:00+02:00",
+    "end_label": "Mon 27.07. 20:00",
+    "end_short_label": "20:00",
+    "id": 2829,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785171600,
+    "start_iso": "2026-07-27T19:00:00+02:00",
+    "start_label": "Mon 27.07. 19:00",
+    "start_short_label": "19:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Dry And Shattered"
     ],
     "day": "Monday",
@@ -187,6 +244,25 @@
     "start_iso": "2026-07-27T19:30:00+02:00",
     "start_label": "Mon 27.07. 19:30",
     "start_short_label": "19:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Alien Rockin Explosion"
+    ],
+    "day": "Monday",
+    "day_id": 32,
+    "end": 1785180600,
+    "end_iso": "2026-07-27T21:30:00+02:00",
+    "end_label": "Mon 27.07. 21:30",
+    "end_short_label": "21:30",
+    "id": 2830,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785178800,
+    "start_iso": "2026-07-27T21:00:00+02:00",
+    "start_label": "Mon 27.07. 21:00",
+    "start_short_label": "21:00",
     "type": "Concert"
   },
   {
@@ -229,6 +305,25 @@
   },
   {
     "artists": [
+      "Mit Ohne Strom"
+    ],
+    "day": "Tuesday",
+    "day_id": 33,
+    "end": 1785237300,
+    "end_iso": "2026-07-28T13:15:00+02:00",
+    "end_label": "Tue 28.07. 13:15",
+    "end_short_label": "13:15",
+    "id": 2833,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785234600,
+    "start_iso": "2026-07-28T12:30:00+02:00",
+    "start_label": "Tue 28.07. 12:30",
+    "start_short_label": "12:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Tribute2Wacken"
     ],
     "day": "Tuesday",
@@ -248,6 +343,25 @@
   },
   {
     "artists": [
+      "Mambo Kurt"
+    ],
+    "day": "Tuesday",
+    "day_id": 33,
+    "end": 1785248100,
+    "end_iso": "2026-07-28T16:15:00+02:00",
+    "end_label": "Tue 28.07. 16:15",
+    "end_short_label": "16:15",
+    "id": 2835,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785244500,
+    "start_iso": "2026-07-28T15:15:00+02:00",
+    "start_label": "Tue 28.07. 15:15",
+    "start_short_label": "15:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Mawiza"
     ],
     "day": "Tuesday",
@@ -263,6 +377,25 @@
     "start_iso": "2026-07-28T16:00:00+02:00",
     "start_label": "Tue 28.07. 16:00",
     "start_short_label": "16:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "The Ukeboys"
+    ],
+    "day": "Tuesday",
+    "day_id": 33,
+    "end": 1785254400,
+    "end_iso": "2026-07-28T18:00:00+02:00",
+    "end_label": "Tue 28.07. 18:00",
+    "end_short_label": "18:00",
+    "id": 2836,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785250800,
+    "start_iso": "2026-07-28T17:00:00+02:00",
+    "start_label": "Tue 28.07. 17:00",
+    "start_short_label": "17:00",
     "type": "Concert"
   },
   {
@@ -301,6 +434,25 @@
     "start_iso": "2026-07-28T19:30:00+02:00",
     "start_label": "Tue 28.07. 19:30",
     "start_short_label": "19:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Alien Rockin Explosion"
+    ],
+    "day": "Tuesday",
+    "day_id": 33,
+    "end": 1785267000,
+    "end_iso": "2026-07-28T21:30:00+02:00",
+    "end_label": "Tue 28.07. 21:30",
+    "end_short_label": "21:30",
+    "id": 2838,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785265200,
+    "start_iso": "2026-07-28T21:00:00+02:00",
+    "start_label": "Tue 28.07. 21:00",
+    "start_short_label": "21:00",
     "type": "Concert"
   },
   {
@@ -742,6 +894,25 @@
   },
   {
     "artists": [
+      "Thomas Nicholas Band"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785337200,
+    "end_iso": "2026-07-29T17:00:00+02:00",
+    "end_label": "Wed 29.07. 17:00",
+    "end_short_label": "17:00",
+    "id": 2843,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785333600,
+    "start_iso": "2026-07-29T16:00:00+02:00",
+    "start_label": "Wed 29.07. 16:00",
+    "start_short_label": "16:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Sinamort"
     ],
     "day": "Wednesday",
@@ -932,6 +1103,25 @@
   },
   {
     "artists": [
+      "Acoustic Steel"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785344400,
+    "end_iso": "2026-07-29T19:00:00+02:00",
+    "end_label": "Wed 29.07. 19:00",
+    "end_short_label": "19:00",
+    "id": 2844,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785340800,
+    "start_iso": "2026-07-29T18:00:00+02:00",
+    "start_label": "Wed 29.07. 18:00",
+    "start_short_label": "18:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Elchivo"
     ],
     "day": "Wednesday",
@@ -1084,6 +1274,25 @@
   },
   {
     "artists": [
+      "Vika Goes Wild"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785349800,
+    "end_iso": "2026-07-29T20:30:00+02:00",
+    "end_label": "Wed 29.07. 20:30",
+    "end_short_label": "20:30",
+    "id": 2845,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785347100,
+    "start_iso": "2026-07-29T19:45:00+02:00",
+    "start_label": "Wed 29.07. 19:45",
+    "start_short_label": "19:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Electric Bassboy"
     ],
     "day": "Wednesday",
@@ -1190,6 +1399,25 @@
     "id": 2608,
     "stage": "Louder",
     "stage_id": 6,
+    "start": 1785351600,
+    "start_iso": "2026-07-29T21:00:00+02:00",
+    "start_label": "Wed 29.07. 21:00",
+    "start_short_label": "21:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Alien Rockin Explosion"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785353400,
+    "end_iso": "2026-07-29T21:30:00+02:00",
+    "end_label": "Wed 29.07. 21:30",
+    "end_short_label": "21:30",
+    "id": 2846,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
     "start": 1785351600,
     "start_iso": "2026-07-29T21:00:00+02:00",
     "start_label": "Wed 29.07. 21:00",
@@ -1901,6 +2129,25 @@
   },
   {
     "artists": [
+      "Mambo Kurt"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785428100,
+    "end_iso": "2026-07-30T18:15:00+02:00",
+    "end_label": "Thu 30.07. 18:15",
+    "end_short_label": "18:15",
+    "id": 2852,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785425400,
+    "start_iso": "2026-07-30T17:30:00+02:00",
+    "start_label": "Thu 30.07. 17:30",
+    "start_short_label": "17:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Spectral Wound"
     ],
     "day": "Thursday",
@@ -1988,6 +2235,25 @@
     "id": 2677,
     "stage": "Headbangers Stage",
     "stage_id": 7,
+    "start": 1785431700,
+    "start_iso": "2026-07-30T19:15:00+02:00",
+    "start_label": "Thu 30.07. 19:15",
+    "start_short_label": "19:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "System of a Down by Anett & Livi Acoustic + Radó Éden"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785435300,
+    "end_iso": "2026-07-30T20:15:00+02:00",
+    "end_label": "Thu 30.07. 20:15",
+    "end_short_label": "20:15",
+    "id": 2853,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
     "start": 1785431700,
     "start_iso": "2026-07-30T19:15:00+02:00",
     "start_label": "Thu 30.07. 19:15",
@@ -2087,6 +2353,25 @@
     "start_iso": "2026-07-30T20:30:00+02:00",
     "start_label": "Thu 30.07. 20:30",
     "start_short_label": "20:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Alien Rockin Explosion"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785439800,
+    "end_iso": "2026-07-30T21:30:00+02:00",
+    "end_label": "Thu 30.07. 21:30",
+    "end_short_label": "21:30",
+    "id": 2854,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785438000,
+    "start_iso": "2026-07-30T21:00:00+02:00",
+    "start_label": "Thu 30.07. 21:00",
+    "start_short_label": "21:00",
     "type": "Concert"
   },
   {
@@ -2737,6 +3022,25 @@
   },
   {
     "artists": [
+      "Mambo Kurt"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785515400,
+    "end_iso": "2026-07-31T18:30:00+02:00",
+    "end_label": "Fri 31.07. 18:30",
+    "end_short_label": "18:30",
+    "id": 2860,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785511800,
+    "start_iso": "2026-07-31T17:30:00+02:00",
+    "start_label": "Fri 31.07. 17:30",
+    "start_short_label": "17:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Pig Destroyer"
     ],
     "day": "Friday",
@@ -2805,6 +3109,25 @@
     "id": 2732,
     "stage": "Wackinger Stage",
     "stage_id": 10,
+    "start": 1785516300,
+    "start_iso": "2026-07-31T18:45:00+02:00",
+    "start_label": "Fri 31.07. 18:45",
+    "start_short_label": "18:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "TBA"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785519900,
+    "end_iso": "2026-07-31T19:45:00+02:00",
+    "end_label": "Fri 31.07. 19:45",
+    "end_short_label": "19:45",
+    "id": 2861,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
     "start": 1785516300,
     "start_iso": "2026-07-31T18:45:00+02:00",
     "start_label": "Fri 31.07. 18:45",
@@ -2927,6 +3250,25 @@
   },
   {
     "artists": [
+      "TBA"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785523500,
+    "end_iso": "2026-07-31T20:45:00+02:00",
+    "end_label": "Fri 31.07. 20:45",
+    "end_short_label": "20:45",
+    "id": 2862,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785520800,
+    "start_iso": "2026-07-31T20:00:00+02:00",
+    "start_label": "Fri 31.07. 20:00",
+    "start_short_label": "20:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Dubioza Kolektiv"
     ],
     "day": "Friday",
@@ -2961,6 +3303,25 @@
     "start_iso": "2026-07-31T20:45:00+02:00",
     "start_label": "Fri 31.07. 20:45",
     "start_short_label": "20:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Alien Rockin Explosion"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785526200,
+    "end_iso": "2026-07-31T21:30:00+02:00",
+    "end_label": "Fri 31.07. 21:30",
+    "end_short_label": "21:30",
+    "id": 2863,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785524400,
+    "start_iso": "2026-07-31T21:00:00+02:00",
+    "start_label": "Fri 31.07. 21:00",
+    "start_short_label": "21:00",
     "type": "Concert"
   },
   {
@@ -3706,6 +4067,25 @@
   },
   {
     "artists": [
+      "Mambo Kurt"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785603600,
+    "end_iso": "2026-08-01T19:00:00+02:00",
+    "end_label": "Sat 01.08. 19:00",
+    "end_short_label": "19:00",
+    "id": 2869,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785600000,
+    "start_iso": "2026-08-01T18:00:00+02:00",
+    "start_label": "Sat 01.08. 18:00",
+    "start_short_label": "18:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Ad Infinitum"
     ],
     "day": "Saturday",
@@ -3892,6 +4272,25 @@
     "start_iso": "2026-08-01T20:45:00+02:00",
     "start_label": "Sat 01.08. 20:45",
     "start_short_label": "20:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Alien Rockin Explosion"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785612600,
+    "end_iso": "2026-08-01T21:30:00+02:00",
+    "end_label": "Sat 01.08. 21:30",
+    "end_short_label": "21:30",
+    "id": 2871,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785610800,
+    "start_iso": "2026-08-01T21:00:00+02:00",
+    "start_label": "Sat 01.08. 21:00",
+    "start_short_label": "21:00",
     "type": "Concert"
   },
   {

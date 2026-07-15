@@ -1,479 +1,284 @@
 {
-  "added": [],
-  "changed": [
+  "added": [
     {
-      "after": {
-        "artists": [
-          "Seers of Light"
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785316800,
-        "id": 2609,
-        "stage": "W:E:T Stage",
-        "stage_id": 8,
-        "start": 1785315600,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Metal Battle tba."
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785316800,
-        "id": 2609,
-        "stage": "W:E:T Stage",
-        "stage_id": 8,
-        "start": 1785315600,
-        "type": "Concert"
-      },
-      "fields": {
-        "artists": {
-          "new": [
-            "Seers of Light"
-          ],
-          "old": [
-            "Metal Battle tba."
-          ]
-        }
-      },
-      "id": 2609
+      "artists": [
+        "Wildcover"
+      ],
+      "day": "Sunday",
+      "day_id": 31,
+      "end": 1785086100,
+      "id": 2825,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785083400,
+      "type": "Concert"
     },
     {
-      "after": {
-        "artists": [
-          "Gannondorf"
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785318300,
-        "id": 2622,
-        "stage": "Headbangers Stage",
-        "stage_id": 7,
-        "start": 1785317100,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Metal Battle tba."
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785318300,
-        "id": 2622,
-        "stage": "Headbangers Stage",
-        "stage_id": 7,
-        "start": 1785317100,
-        "type": "Concert"
-      },
-      "fields": {
-        "artists": {
-          "new": [
-            "Gannondorf"
-          ],
-          "old": [
-            "Metal Battle tba."
-          ]
-        }
-      },
-      "id": 2622
+      "artists": [
+        "Acoustic Guerillas feat Ellerbek Pussyboys"
+      ],
+      "day": "Sunday",
+      "day_id": 31,
+      "end": 1785090600,
+      "id": 2826,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785087900,
+      "type": "Concert"
     },
     {
-      "after": {
-        "artists": [
-          "I See Red"
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785322800,
-        "id": 2611,
-        "stage": "W:E:T Stage",
-        "stage_id": 8,
-        "start": 1785321600,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Metal Battle tba."
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785322800,
-        "id": 2611,
-        "stage": "W:E:T Stage",
-        "stage_id": 8,
-        "start": 1785321600,
-        "type": "Concert"
-      },
-      "fields": {
-        "artists": {
-          "new": [
-            "I See Red"
-          ],
-          "old": [
-            "Metal Battle tba."
-          ]
-        }
-      },
-      "id": 2611
+      "artists": [
+        "Mambo Kurt"
+      ],
+      "day": "Monday",
+      "day_id": 32,
+      "end": 1785175200,
+      "id": 2829,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785171600,
+      "type": "Concert"
     },
     {
-      "after": {
-        "artists": [
-          "Human Nebula"
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785324300,
-        "id": 2624,
-        "stage": "Headbangers Stage",
-        "stage_id": 7,
-        "start": 1785323100,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Metal Battle tba."
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785324300,
-        "id": 2624,
-        "stage": "Headbangers Stage",
-        "stage_id": 7,
-        "start": 1785323100,
-        "type": "Concert"
-      },
-      "fields": {
-        "artists": {
-          "new": [
-            "Human Nebula"
-          ],
-          "old": [
-            "Metal Battle tba."
-          ]
-        }
-      },
-      "id": 2624
+      "artists": [
+        "Alien Rockin Explosion"
+      ],
+      "day": "Monday",
+      "day_id": 32,
+      "end": 1785180600,
+      "id": 2830,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785178800,
+      "type": "Concert"
     },
     {
-      "after": {
-        "artists": [
-          "Dead Memories"
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785327300,
-        "id": 2625,
-        "stage": "Headbangers Stage",
-        "stage_id": 7,
-        "start": 1785326100,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Metal Battle tba."
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785327300,
-        "id": 2625,
-        "stage": "Headbangers Stage",
-        "stage_id": 7,
-        "start": 1785326100,
-        "type": "Concert"
-      },
-      "fields": {
-        "artists": {
-          "new": [
-            "Dead Memories"
-          ],
-          "old": [
-            "Metal Battle tba."
-          ]
-        }
-      },
-      "id": 2625
+      "artists": [
+        "Mit Ohne Strom"
+      ],
+      "day": "Tuesday",
+      "day_id": 33,
+      "end": 1785237300,
+      "id": 2833,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785234600,
+      "type": "Concert"
     },
     {
-      "after": {
-        "artists": [
-          "Witchlords"
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785340200,
-        "id": 2616,
-        "stage": "W:E:T Stage",
-        "stage_id": 8,
-        "start": 1785339000,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Metal Battle tba."
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785340200,
-        "id": 2616,
-        "stage": "W:E:T Stage",
-        "stage_id": 8,
-        "start": 1785339000,
-        "type": "Concert"
-      },
-      "fields": {
-        "artists": {
-          "new": [
-            "Witchlords"
-          ],
-          "old": [
-            "Metal Battle tba."
-          ]
-        }
-      },
-      "id": 2616
+      "artists": [
+        "Mambo Kurt"
+      ],
+      "day": "Tuesday",
+      "day_id": 33,
+      "end": 1785248100,
+      "id": 2835,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785244500,
+      "type": "Concert"
     },
     {
-      "after": {
-        "artists": [
-          "Noiduin"
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785341700,
-        "id": 2629,
-        "stage": "Headbangers Stage",
-        "stage_id": 7,
-        "start": 1785340500,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Metal Battle tba."
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785341700,
-        "id": 2629,
-        "stage": "Headbangers Stage",
-        "stage_id": 7,
-        "start": 1785340500,
-        "type": "Concert"
-      },
-      "fields": {
-        "artists": {
-          "new": [
-            "Noiduin"
-          ],
-          "old": [
-            "Metal Battle tba."
-          ]
-        }
-      },
-      "id": 2629
+      "artists": [
+        "The Ukeboys"
+      ],
+      "day": "Tuesday",
+      "day_id": 33,
+      "end": 1785254400,
+      "id": 2836,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785250800,
+      "type": "Concert"
     },
     {
-      "after": {
-        "artists": [
-          "Invasion"
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785344700,
-        "id": 2630,
-        "stage": "Headbangers Stage",
-        "stage_id": 7,
-        "start": 1785343500,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Metal Battle tba."
-        ],
-        "day": "Wednesday",
-        "day_id": 34,
-        "end": 1785344700,
-        "id": 2630,
-        "stage": "Headbangers Stage",
-        "stage_id": 7,
-        "start": 1785343500,
-        "type": "Concert"
-      },
-      "fields": {
-        "artists": {
-          "new": [
-            "Invasion"
-          ],
-          "old": [
-            "Metal Battle tba."
-          ]
-        }
-      },
-      "id": 2630
+      "artists": [
+        "Alien Rockin Explosion"
+      ],
+      "day": "Tuesday",
+      "day_id": 33,
+      "end": 1785267000,
+      "id": 2838,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785265200,
+      "type": "Concert"
     },
     {
-      "after": {
-        "artists": [
-          "Death Row"
-        ],
-        "day": "Thursday",
-        "day_id": 35,
-        "end": 1785409200,
-        "id": 2662,
-        "stage": "W:E:T Stage",
-        "stage_id": 8,
-        "start": 1785408000,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Metal Battle tba."
-        ],
-        "day": "Thursday",
-        "day_id": 35,
-        "end": 1785409200,
-        "id": 2662,
-        "stage": "W:E:T Stage",
-        "stage_id": 8,
-        "start": 1785408000,
-        "type": "Concert"
-      },
-      "fields": {
-        "artists": {
-          "new": [
-            "Death Row"
-          ],
-          "old": [
-            "Metal Battle tba."
-          ]
-        }
-      },
-      "id": 2662
+      "artists": [
+        "Thomas Nicholas Band"
+      ],
+      "day": "Wednesday",
+      "day_id": 34,
+      "end": 1785337200,
+      "id": 2843,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785333600,
+      "type": "Concert"
     },
     {
-      "after": {
-        "artists": [
-          "Sentient Void"
-        ],
-        "day": "Thursday",
-        "day_id": 35,
-        "end": 1785412200,
-        "id": 2663,
-        "stage": "W:E:T Stage",
-        "stage_id": 8,
-        "start": 1785411000,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Metal Battle tba."
-        ],
-        "day": "Thursday",
-        "day_id": 35,
-        "end": 1785412200,
-        "id": 2663,
-        "stage": "W:E:T Stage",
-        "stage_id": 8,
-        "start": 1785411000,
-        "type": "Concert"
-      },
-      "fields": {
-        "artists": {
-          "new": [
-            "Sentient Void"
-          ],
-          "old": [
-            "Metal Battle tba."
-          ]
-        }
-      },
-      "id": 2663
+      "artists": [
+        "Acoustic Steel"
+      ],
+      "day": "Wednesday",
+      "day_id": 34,
+      "end": 1785344400,
+      "id": 2844,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785340800,
+      "type": "Concert"
     },
     {
-      "after": {
-        "artists": [
-          "Rise of Shadows"
-        ],
-        "day": "Thursday",
-        "day_id": 35,
-        "end": 1785418200,
-        "id": 2665,
-        "stage": "W:E:T Stage",
-        "stage_id": 8,
-        "start": 1785417000,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Metal Battle tba."
-        ],
-        "day": "Thursday",
-        "day_id": 35,
-        "end": 1785418200,
-        "id": 2665,
-        "stage": "W:E:T Stage",
-        "stage_id": 8,
-        "start": 1785417000,
-        "type": "Concert"
-      },
-      "fields": {
-        "artists": {
-          "new": [
-            "Rise of Shadows"
-          ],
-          "old": [
-            "Metal Battle tba."
-          ]
-        }
-      },
-      "id": 2665
+      "artists": [
+        "Vika Goes Wild"
+      ],
+      "day": "Wednesday",
+      "day_id": 34,
+      "end": 1785349800,
+      "id": 2845,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785347100,
+      "type": "Concert"
     },
     {
-      "after": {
-        "artists": [
-          "Days of Ruin"
-        ],
-        "day": "Thursday",
-        "day_id": 35,
-        "end": 1785419700,
-        "id": 2675,
-        "stage": "Headbangers Stage",
-        "stage_id": 7,
-        "start": 1785418500,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Metal Battle tba."
-        ],
-        "day": "Thursday",
-        "day_id": 35,
-        "end": 1785419700,
-        "id": 2675,
-        "stage": "Headbangers Stage",
-        "stage_id": 7,
-        "start": 1785418500,
-        "type": "Concert"
-      },
-      "fields": {
-        "artists": {
-          "new": [
-            "Days of Ruin"
-          ],
-          "old": [
-            "Metal Battle tba."
-          ]
-        }
-      },
-      "id": 2675
+      "artists": [
+        "Alien Rockin Explosion"
+      ],
+      "day": "Wednesday",
+      "day_id": 34,
+      "end": 1785353400,
+      "id": 2846,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785351600,
+      "type": "Concert"
+    },
+    {
+      "artists": [
+        "Mambo Kurt"
+      ],
+      "day": "Thursday",
+      "day_id": 35,
+      "end": 1785428100,
+      "id": 2852,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785425400,
+      "type": "Concert"
+    },
+    {
+      "artists": [
+        "System of a Down by Anett & Livi Acoustic + Radó Éden"
+      ],
+      "day": "Thursday",
+      "day_id": 35,
+      "end": 1785435300,
+      "id": 2853,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785431700,
+      "type": "Concert"
+    },
+    {
+      "artists": [
+        "Alien Rockin Explosion"
+      ],
+      "day": "Thursday",
+      "day_id": 35,
+      "end": 1785439800,
+      "id": 2854,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785438000,
+      "type": "Concert"
+    },
+    {
+      "artists": [
+        "Mambo Kurt"
+      ],
+      "day": "Friday",
+      "day_id": 36,
+      "end": 1785515400,
+      "id": 2860,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785511800,
+      "type": "Concert"
+    },
+    {
+      "artists": [
+        "TBA"
+      ],
+      "day": "Friday",
+      "day_id": 36,
+      "end": 1785519900,
+      "id": 2861,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785516300,
+      "type": "Concert"
+    },
+    {
+      "artists": [
+        "TBA"
+      ],
+      "day": "Friday",
+      "day_id": 36,
+      "end": 1785523500,
+      "id": 2862,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785520800,
+      "type": "Concert"
+    },
+    {
+      "artists": [
+        "Alien Rockin Explosion"
+      ],
+      "day": "Friday",
+      "day_id": 36,
+      "end": 1785526200,
+      "id": 2863,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785524400,
+      "type": "Concert"
+    },
+    {
+      "artists": [
+        "Mambo Kurt"
+      ],
+      "day": "Saturday",
+      "day_id": 37,
+      "end": 1785603600,
+      "id": 2869,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785600000,
+      "type": "Concert"
+    },
+    {
+      "artists": [
+        "Alien Rockin Explosion"
+      ],
+      "day": "Saturday",
+      "day_id": 37,
+      "end": 1785612600,
+      "id": 2871,
+      "stage": "Welcome To The Jungle",
+      "stage_id": 13,
+      "start": 1785610800,
+      "type": "Concert"
     }
   ],
+  "changed": [],
   "removed": [],
   "summary": {
-    "added": 0,
-    "changed": 12,
+    "added": 21,
+    "changed": 0,
     "removed": 0
   }
 }
