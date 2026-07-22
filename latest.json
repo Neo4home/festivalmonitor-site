@@ -115,6 +115,25 @@
   },
   {
     "artists": [
+      "Mandowar"
+    ],
+    "day": "Sunday",
+    "day_id": 31,
+    "end": 1785092400,
+    "end_iso": "2026-07-26T21:00:00+02:00",
+    "end_label": "Sun 26.07. 21:00",
+    "end_short_label": "21:00",
+    "id": 2907,
+    "stage": "Feuerwehrtruck \"Entrance Bullhead\"",
+    "stage_id": 27,
+    "start": 1785088800,
+    "start_iso": "2026-07-26T20:00:00+02:00",
+    "start_label": "Sun 26.07. 20:00",
+    "start_short_label": "20:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Jäst"
     ],
     "day": "Sunday",
@@ -172,6 +191,101 @@
   },
   {
     "artists": [
+      "Out Of The Cage - Godzilla in the Kitchen"
+    ],
+    "day": "Monday",
+    "day_id": 32,
+    "end": 1785147300,
+    "end_iso": "2026-07-27T12:15:00+02:00",
+    "end_label": "Mon 27.07. 12:15",
+    "end_short_label": "12:15",
+    "id": 2875,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785144600,
+    "start_iso": "2026-07-27T11:30:00+02:00",
+    "start_label": "Mon 27.07. 11:30",
+    "start_short_label": "11:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out Of The Cage - Godzilla in the Kitchen"
+    ],
+    "day": "Monday",
+    "day_id": 32,
+    "end": 1785152700,
+    "end_iso": "2026-07-27T13:45:00+02:00",
+    "end_label": "Mon 27.07. 13:45",
+    "end_short_label": "13:45",
+    "id": 2877,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785150000,
+    "start_iso": "2026-07-27T13:00:00+02:00",
+    "start_label": "Mon 27.07. 13:00",
+    "start_short_label": "13:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out Of The Cage - Godzilla in the Kitchen"
+    ],
+    "day": "Monday",
+    "day_id": 32,
+    "end": 1785158100,
+    "end_iso": "2026-07-27T15:15:00+02:00",
+    "end_label": "Mon 27.07. 15:15",
+    "end_short_label": "15:15",
+    "id": 2879,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785155400,
+    "start_iso": "2026-07-27T14:30:00+02:00",
+    "start_label": "Mon 27.07. 14:30",
+    "start_short_label": "14:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Mambo Kurt"
+    ],
+    "day": "Monday",
+    "day_id": 32,
+    "end": 1785160800,
+    "end_iso": "2026-07-27T16:00:00+02:00",
+    "end_label": "Mon 27.07. 16:00",
+    "end_short_label": "16:00",
+    "id": 2908,
+    "stage": "Feuerwehrtruck \"Entrance Bullhead\"",
+    "stage_id": 27,
+    "start": 1785157200,
+    "start_iso": "2026-07-27T15:00:00+02:00",
+    "start_label": "Mon 27.07. 15:00",
+    "start_short_label": "15:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Megabosch"
+    ],
+    "day": "Monday",
+    "day_id": 32,
+    "end": 1785161700,
+    "end_iso": "2026-07-27T16:15:00+02:00",
+    "end_label": "Mon 27.07. 16:15",
+    "end_short_label": "16:15",
+    "id": 2880,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785159000,
+    "start_iso": "2026-07-27T15:30:00+02:00",
+    "start_label": "Mon 27.07. 15:30",
+    "start_short_label": "15:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "2Silent"
     ],
     "day": "Monday",
@@ -187,6 +301,25 @@
     "start_iso": "2026-07-27T16:00:00+02:00",
     "start_label": "Mon 27.07. 16:00",
     "start_short_label": "16:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Black Alley Sons"
+    ],
+    "day": "Monday",
+    "day_id": 32,
+    "end": 1785168900,
+    "end_iso": "2026-07-27T18:15:00+02:00",
+    "end_label": "Mon 27.07. 18:15",
+    "end_short_label": "18:15",
+    "id": 2882,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785166200,
+    "start_iso": "2026-07-27T17:30:00+02:00",
+    "start_label": "Mon 27.07. 17:30",
+    "start_short_label": "17:30",
     "type": "Concert"
   },
   {
@@ -248,6 +381,63 @@
   },
   {
     "artists": [
+      "Out of the Cage - Black Alley Sons"
+    ],
+    "day": "Monday",
+    "day_id": 32,
+    "end": 1785176100,
+    "end_iso": "2026-07-27T20:15:00+02:00",
+    "end_label": "Mon 27.07. 20:15",
+    "end_short_label": "20:15",
+    "id": 2884,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785173400,
+    "start_iso": "2026-07-27T19:30:00+02:00",
+    "start_label": "Mon 27.07. 19:30",
+    "start_short_label": "19:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Mandowar"
+    ],
+    "day": "Monday",
+    "day_id": 32,
+    "end": 1785178800,
+    "end_iso": "2026-07-27T21:00:00+02:00",
+    "end_label": "Mon 27.07. 21:00",
+    "end_short_label": "21:00",
+    "id": 2911,
+    "stage": "Feuerwehrtruck \"Entrance Bullhead\"",
+    "stage_id": 27,
+    "start": 1785175200,
+    "start_iso": "2026-07-27T20:00:00+02:00",
+    "start_label": "Mon 27.07. 20:00",
+    "start_short_label": "20:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Megabosch"
+    ],
+    "day": "Monday",
+    "day_id": 32,
+    "end": 1785181500,
+    "end_iso": "2026-07-27T21:45:00+02:00",
+    "end_label": "Mon 27.07. 21:45",
+    "end_short_label": "21:45",
+    "id": 2886,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785178800,
+    "start_iso": "2026-07-27T21:00:00+02:00",
+    "start_label": "Mon 27.07. 21:00",
+    "start_short_label": "21:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Alien Rockin Explosion"
     ],
     "day": "Monday",
@@ -286,6 +476,25 @@
   },
   {
     "artists": [
+      "Out of the Cage - Black Alley Sons"
+    ],
+    "day": "Monday",
+    "day_id": 32,
+    "end": 1785185100,
+    "end_iso": "2026-07-27T22:45:00+02:00",
+    "end_label": "Mon 27.07. 22:45",
+    "end_short_label": "22:45",
+    "id": 2887,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785182400,
+    "start_iso": "2026-07-27T22:00:00+02:00",
+    "start_label": "Mon 27.07. 22:00",
+    "start_short_label": "22:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Metal Karaoke Massacre"
     ],
     "day": "Monday",
@@ -301,6 +510,25 @@
     "start_iso": "2026-07-27T22:30:00+02:00",
     "start_label": "Mon 27.07. 22:30",
     "start_short_label": "22:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Black Alley Sons"
+    ],
+    "day": "Tuesday",
+    "day_id": 33,
+    "end": 1785233700,
+    "end_iso": "2026-07-28T12:15:00+02:00",
+    "end_label": "Tue 28.07. 12:15",
+    "end_short_label": "12:15",
+    "id": 2890,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785231000,
+    "start_iso": "2026-07-28T11:30:00+02:00",
+    "start_label": "Tue 28.07. 11:30",
+    "start_short_label": "11:30",
     "type": "Concert"
   },
   {
@@ -324,6 +552,25 @@
   },
   {
     "artists": [
+      "Out of the Cage - Black Alley Sons"
+    ],
+    "day": "Tuesday",
+    "day_id": 33,
+    "end": 1785239100,
+    "end_iso": "2026-07-28T13:45:00+02:00",
+    "end_label": "Tue 28.07. 13:45",
+    "end_short_label": "13:45",
+    "id": 2892,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785236400,
+    "start_iso": "2026-07-28T13:00:00+02:00",
+    "start_label": "Tue 28.07. 13:00",
+    "start_short_label": "13:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Tribute2Wacken"
     ],
     "day": "Tuesday",
@@ -343,6 +590,25 @@
   },
   {
     "artists": [
+      "Out of the Cage - Black Alley Sons"
+    ],
+    "day": "Tuesday",
+    "day_id": 33,
+    "end": 1785244500,
+    "end_iso": "2026-07-28T15:15:00+02:00",
+    "end_label": "Tue 28.07. 15:15",
+    "end_short_label": "15:15",
+    "id": 2894,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785241800,
+    "start_iso": "2026-07-28T14:30:00+02:00",
+    "start_label": "Tue 28.07. 14:30",
+    "start_short_label": "14:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Mambo Kurt"
     ],
     "day": "Tuesday",
@@ -358,6 +624,25 @@
     "start_iso": "2026-07-28T15:15:00+02:00",
     "start_label": "Tue 28.07. 15:15",
     "start_short_label": "15:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Megabosch"
+    ],
+    "day": "Tuesday",
+    "day_id": 33,
+    "end": 1785248100,
+    "end_iso": "2026-07-28T16:15:00+02:00",
+    "end_label": "Tue 28.07. 16:15",
+    "end_short_label": "16:15",
+    "id": 2895,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785245400,
+    "start_iso": "2026-07-28T15:30:00+02:00",
+    "start_label": "Tue 28.07. 15:30",
+    "start_short_label": "15:30",
     "type": "Concert"
   },
   {
@@ -400,6 +685,25 @@
   },
   {
     "artists": [
+      "Out of the Cage - Dramatist"
+    ],
+    "day": "Tuesday",
+    "day_id": 33,
+    "end": 1785255300,
+    "end_iso": "2026-07-28T18:15:00+02:00",
+    "end_label": "Tue 28.07. 18:15",
+    "end_short_label": "18:15",
+    "id": 2897,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785252600,
+    "start_iso": "2026-07-28T17:30:00+02:00",
+    "start_label": "Tue 28.07. 17:30",
+    "start_short_label": "17:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Die From Sorrow"
     ],
     "day": "Tuesday",
@@ -419,6 +723,25 @@
   },
   {
     "artists": [
+      "Mandowar"
+    ],
+    "day": "Tuesday",
+    "day_id": 33,
+    "end": 1785258000,
+    "end_iso": "2026-07-28T19:00:00+02:00",
+    "end_label": "Tue 28.07. 19:00",
+    "end_short_label": "19:00",
+    "id": 2915,
+    "stage": "Feuerwehrtruck \"Entrance Bullhead\"",
+    "stage_id": 27,
+    "start": 1785254400,
+    "start_iso": "2026-07-28T18:00:00+02:00",
+    "start_label": "Tue 28.07. 18:00",
+    "start_short_label": "18:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Pentastone"
     ],
     "day": "Tuesday",
@@ -434,6 +757,44 @@
     "start_iso": "2026-07-28T19:30:00+02:00",
     "start_label": "Tue 28.07. 19:30",
     "start_short_label": "19:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Dramatist"
+    ],
+    "day": "Tuesday",
+    "day_id": 33,
+    "end": 1785262500,
+    "end_iso": "2026-07-28T20:15:00+02:00",
+    "end_label": "Tue 28.07. 20:15",
+    "end_short_label": "20:15",
+    "id": 2899,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785259800,
+    "start_iso": "2026-07-28T19:30:00+02:00",
+    "start_label": "Tue 28.07. 19:30",
+    "start_short_label": "19:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Megabosch"
+    ],
+    "day": "Tuesday",
+    "day_id": 33,
+    "end": 1785267900,
+    "end_iso": "2026-07-28T21:45:00+02:00",
+    "end_label": "Tue 28.07. 21:45",
+    "end_short_label": "21:45",
+    "id": 2901,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785265200,
+    "start_iso": "2026-07-28T21:00:00+02:00",
+    "start_label": "Tue 28.07. 21:00",
+    "start_short_label": "21:00",
     "type": "Concert"
   },
   {
@@ -476,6 +837,25 @@
   },
   {
     "artists": [
+      "Out of the Cage - Dramatist"
+    ],
+    "day": "Tuesday",
+    "day_id": 33,
+    "end": 1785271500,
+    "end_iso": "2026-07-28T22:45:00+02:00",
+    "end_label": "Tue 28.07. 22:45",
+    "end_short_label": "22:45",
+    "id": 2902,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785268800,
+    "start_iso": "2026-07-28T22:00:00+02:00",
+    "start_label": "Tue 28.07. 22:00",
+    "start_short_label": "22:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Metal Karaoke Massacre"
     ],
     "day": "Tuesday",
@@ -506,6 +886,25 @@
     "id": 2609,
     "stage": "W:E:T Stage",
     "stage_id": 8,
+    "start": 1785315600,
+    "start_iso": "2026-07-29T11:00:00+02:00",
+    "start_label": "Wed 29.07. 11:00",
+    "start_short_label": "11:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Van Tastik"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785318300,
+    "end_iso": "2026-07-29T11:45:00+02:00",
+    "end_label": "Wed 29.07. 11:45",
+    "end_short_label": "11:45",
+    "id": 2918,
+    "stage": "Wasteland",
+    "stage_id": 16,
     "start": 1785315600,
     "start_iso": "2026-07-29T11:00:00+02:00",
     "start_label": "Wed 29.07. 11:00",
@@ -609,6 +1008,25 @@
   },
   {
     "artists": [
+      "Out of the Cage - Van Tastik"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785323700,
+    "end_iso": "2026-07-29T13:15:00+02:00",
+    "end_label": "Wed 29.07. 13:15",
+    "end_short_label": "13:15",
+    "id": 2920,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785321000,
+    "start_iso": "2026-07-29T12:30:00+02:00",
+    "start_label": "Wed 29.07. 12:30",
+    "start_short_label": "12:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "I See Red"
     ],
     "day": "Wednesday",
@@ -624,6 +1042,44 @@
     "start_iso": "2026-07-29T12:40:00+02:00",
     "start_label": "Wed 29.07. 12:40",
     "start_short_label": "12:40",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Mac Cabe & Kanaka"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785324600,
+    "end_iso": "2026-07-29T13:30:00+02:00",
+    "end_label": "Wed 29.07. 13:30",
+    "end_short_label": "13:30",
+    "id": 2988,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785321900,
+    "start_iso": "2026-07-29T12:45:00+02:00",
+    "start_label": "Wed 29.07. 12:45",
+    "start_short_label": "12:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "The Trouble Notes"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785324600,
+    "end_iso": "2026-07-29T13:30:00+02:00",
+    "end_label": "Wed 29.07. 13:30",
+    "end_short_label": "13:30",
+    "id": 2979,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785321900,
+    "start_iso": "2026-07-29T12:45:00+02:00",
+    "start_label": "Wed 29.07. 12:45",
+    "start_short_label": "12:45",
     "type": "Concert"
   },
   {
@@ -738,6 +1194,44 @@
     "start_iso": "2026-07-29T14:00:00+02:00",
     "start_label": "Wed 29.07. 14:00",
     "start_short_label": "14:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Whizbow"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785330000,
+    "end_iso": "2026-07-29T15:00:00+02:00",
+    "end_label": "Wed 29.07. 15:00",
+    "end_short_label": "15:00",
+    "id": 2989,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785327300,
+    "start_iso": "2026-07-29T14:15:00+02:00",
+    "start_label": "Wed 29.07. 14:15",
+    "start_short_label": "14:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Lutz Drenkwitz"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785330000,
+    "end_iso": "2026-07-29T15:00:00+02:00",
+    "end_label": "Wed 29.07. 15:00",
+    "end_short_label": "15:00",
+    "id": 2980,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785327300,
+    "start_iso": "2026-07-29T14:15:00+02:00",
+    "start_label": "Wed 29.07. 14:15",
+    "start_short_label": "14:15",
     "type": "Concert"
   },
   {
@@ -894,6 +1388,44 @@
   },
   {
     "artists": [
+      "Sintram"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785336300,
+    "end_iso": "2026-07-29T16:45:00+02:00",
+    "end_label": "Wed 29.07. 16:45",
+    "end_short_label": "16:45",
+    "id": 2990,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785333600,
+    "start_iso": "2026-07-29T16:00:00+02:00",
+    "start_label": "Wed 29.07. 16:00",
+    "start_short_label": "16:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Tales of Nebelheym"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785336300,
+    "end_iso": "2026-07-29T16:45:00+02:00",
+    "end_label": "Wed 29.07. 16:45",
+    "end_short_label": "16:45",
+    "id": 2981,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785333600,
+    "start_iso": "2026-07-29T16:00:00+02:00",
+    "start_label": "Wed 29.07. 16:00",
+    "start_short_label": "16:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Thomas Nicholas Band"
     ],
     "day": "Wednesday",
@@ -928,6 +1460,44 @@
     "start_iso": "2026-07-29T16:15:00+02:00",
     "start_label": "Wed 29.07. 16:15",
     "start_short_label": "16:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Van Tastik"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785337200,
+    "end_iso": "2026-07-29T17:00:00+02:00",
+    "end_label": "Wed 29.07. 17:00",
+    "end_short_label": "17:00",
+    "id": 2923,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785334500,
+    "start_iso": "2026-07-29T16:15:00+02:00",
+    "start_label": "Wed 29.07. 16:15",
+    "start_short_label": "16:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Wacken Church meets Headbangers Church"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785339000,
+    "end_iso": "2026-07-29T17:30:00+02:00",
+    "end_label": "Wed 29.07. 17:30",
+    "end_short_label": "17:30",
+    "id": 3081,
+    "stage": "Metal Church",
+    "stage_id": 12,
+    "start": 1785335400,
+    "start_iso": "2026-07-29T16:30:00+02:00",
+    "start_label": "Wed 29.07. 16:30",
+    "start_short_label": "16:30",
     "type": "Concert"
   },
   {
@@ -1065,6 +1635,63 @@
   },
   {
     "artists": [
+      "Mac Cabe & Kanaka"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785342600,
+    "end_iso": "2026-07-29T18:30:00+02:00",
+    "end_label": "Wed 29.07. 18:30",
+    "end_short_label": "18:30",
+    "id": 2991,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785339900,
+    "start_iso": "2026-07-29T17:45:00+02:00",
+    "start_label": "Wed 29.07. 17:45",
+    "start_short_label": "17:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "The Trouble Notes"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785342600,
+    "end_iso": "2026-07-29T18:30:00+02:00",
+    "end_label": "Wed 29.07. 18:30",
+    "end_short_label": "18:30",
+    "id": 2982,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785339900,
+    "start_iso": "2026-07-29T17:45:00+02:00",
+    "start_label": "Wed 29.07. 17:45",
+    "start_short_label": "17:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Megabosch"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785342600,
+    "end_iso": "2026-07-29T18:30:00+02:00",
+    "end_label": "Wed 29.07. 18:30",
+    "end_short_label": "18:30",
+    "id": 2924,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785339900,
+    "start_iso": "2026-07-29T17:45:00+02:00",
+    "start_label": "Wed 29.07. 17:45",
+    "start_short_label": "17:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Noiduin"
     ],
     "day": "Wednesday",
@@ -1160,6 +1787,25 @@
   },
   {
     "artists": [
+      "TBA"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785345300,
+    "end_iso": "2026-07-29T19:15:00+02:00",
+    "end_label": "Wed 29.07. 19:15",
+    "end_short_label": "19:15",
+    "id": 2925,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785342600,
+    "start_iso": "2026-07-29T18:30:00+02:00",
+    "start_label": "Wed 29.07. 18:30",
+    "start_short_label": "18:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Phantom"
     ],
     "day": "Wednesday",
@@ -1236,6 +1882,25 @@
   },
   {
     "artists": [
+      "Visions of Atlantis"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785348000,
+    "end_iso": "2026-07-29T20:00:00+02:00",
+    "end_label": "Wed 29.07. 20:00",
+    "end_short_label": "20:00",
+    "id": 3082,
+    "stage": "Metal Church",
+    "stage_id": 12,
+    "start": 1785344400,
+    "start_iso": "2026-07-29T19:00:00+02:00",
+    "start_label": "Wed 29.07. 19:00",
+    "start_short_label": "19:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Morphide"
     ],
     "day": "Wednesday",
@@ -1251,6 +1916,63 @@
     "start_iso": "2026-07-29T19:10:00+02:00",
     "start_label": "Wed 29.07. 19:10",
     "start_short_label": "19:10",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out Of The Cage - Godzilla in the Kitchen"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785348000,
+    "end_iso": "2026-07-29T20:00:00+02:00",
+    "end_label": "Wed 29.07. 20:00",
+    "end_short_label": "20:00",
+    "id": 2926,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785345300,
+    "start_iso": "2026-07-29T19:15:00+02:00",
+    "start_label": "Wed 29.07. 19:15",
+    "start_short_label": "19:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Mac Cabe & Kanaka"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785348900,
+    "end_iso": "2026-07-29T20:15:00+02:00",
+    "end_label": "Wed 29.07. 20:15",
+    "end_short_label": "20:15",
+    "id": 2992,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785346200,
+    "start_iso": "2026-07-29T19:30:00+02:00",
+    "start_label": "Wed 29.07. 19:30",
+    "start_short_label": "19:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Lutz Drenkwitz"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785348900,
+    "end_iso": "2026-07-29T20:15:00+02:00",
+    "end_label": "Wed 29.07. 20:15",
+    "end_short_label": "20:15",
+    "id": 2983,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785346200,
+    "start_iso": "2026-07-29T19:30:00+02:00",
+    "start_label": "Wed 29.07. 19:30",
+    "start_short_label": "19:30",
     "type": "Concert"
   },
   {
@@ -1369,6 +2091,25 @@
   },
   {
     "artists": [
+      "Megabosch"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785353400,
+    "end_iso": "2026-07-29T21:30:00+02:00",
+    "end_label": "Wed 29.07. 21:30",
+    "end_short_label": "21:30",
+    "id": 2927,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785350700,
+    "start_iso": "2026-07-29T20:45:00+02:00",
+    "start_label": "Wed 29.07. 20:45",
+    "start_short_label": "20:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Ozzyfied - A Tribute to Ozzy Osbourne"
     ],
     "day": "Wednesday",
@@ -1445,6 +2186,44 @@
   },
   {
     "artists": [
+      "Tales of Nebelheym"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785355200,
+    "end_iso": "2026-07-29T22:00:00+02:00",
+    "end_label": "Wed 29.07. 22:00",
+    "end_short_label": "22:00",
+    "id": 2984,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785352500,
+    "start_iso": "2026-07-29T21:15:00+02:00",
+    "start_label": "Wed 29.07. 21:15",
+    "start_short_label": "21:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Whizbow"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785356100,
+    "end_iso": "2026-07-29T22:15:00+02:00",
+    "end_label": "Wed 29.07. 22:15",
+    "end_short_label": "22:15",
+    "id": 2993,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785353400,
+    "start_iso": "2026-07-29T21:30:00+02:00",
+    "start_label": "Wed 29.07. 21:30",
+    "start_short_label": "21:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "The Troops Of Doom"
     ],
     "day": "Wednesday",
@@ -1502,6 +2281,25 @@
   },
   {
     "artists": [
+      "Out Of The Cage - Godzilla in the Kitchen"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785358800,
+    "end_iso": "2026-07-29T23:00:00+02:00",
+    "end_label": "Wed 29.07. 23:00",
+    "end_short_label": "23:00",
+    "id": 2928,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785356100,
+    "start_iso": "2026-07-29T22:15:00+02:00",
+    "start_label": "Wed 29.07. 22:15",
+    "start_short_label": "22:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Rose Tattoo"
     ],
     "day": "Wednesday",
@@ -1540,6 +2338,44 @@
   },
   {
     "artists": [
+      "Sintram"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785362400,
+    "end_iso": "2026-07-30T00:00:00+02:00",
+    "end_label": "Thu 30.07. 00:00",
+    "end_short_label": "00:00",
+    "id": 2994,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785359700,
+    "start_iso": "2026-07-29T23:15:00+02:00",
+    "start_label": "Wed 29.07. 23:15",
+    "start_short_label": "23:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Lutz Drenkwitz"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785362400,
+    "end_iso": "2026-07-30T00:00:00+02:00",
+    "end_label": "Thu 30.07. 00:00",
+    "end_short_label": "00:00",
+    "id": 2985,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785359700,
+    "start_iso": "2026-07-29T23:15:00+02:00",
+    "start_label": "Wed 29.07. 23:15",
+    "start_short_label": "23:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Mambo Kurt"
     ],
     "day": "Wednesday",
@@ -1555,6 +2391,82 @@
     "start_iso": "2026-07-30T00:15:00+02:00",
     "start_label": "Thu 30.07. 00:15",
     "start_short_label": "00:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Whizbow"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785366000,
+    "end_iso": "2026-07-30T01:00:00+02:00",
+    "end_label": "Thu 30.07. 01:00",
+    "end_short_label": "01:00",
+    "id": 2995,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785363300,
+    "start_iso": "2026-07-30T00:15:00+02:00",
+    "start_label": "Thu 30.07. 00:15",
+    "start_short_label": "00:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "The Trouble Notes"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785366000,
+    "end_iso": "2026-07-30T01:00:00+02:00",
+    "end_label": "Thu 30.07. 01:00",
+    "end_short_label": "01:00",
+    "id": 2986,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785363300,
+    "start_iso": "2026-07-30T00:15:00+02:00",
+    "start_label": "Thu 30.07. 00:15",
+    "start_short_label": "00:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Mudfinger"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785368700,
+    "end_iso": "2026-07-30T01:45:00+02:00",
+    "end_label": "Thu 30.07. 01:45",
+    "end_short_label": "01:45",
+    "id": 2930,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785366000,
+    "start_iso": "2026-07-30T01:00:00+02:00",
+    "start_label": "Thu 30.07. 01:00",
+    "start_short_label": "01:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Sintram"
+    ],
+    "day": "Wednesday",
+    "day_id": 34,
+    "end": 1785369600,
+    "end_iso": "2026-07-30T02:00:00+02:00",
+    "end_label": "Thu 30.07. 02:00",
+    "end_short_label": "02:00",
+    "id": 2987,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785367800,
+    "start_iso": "2026-07-30T01:30:00+02:00",
+    "start_label": "Thu 30.07. 01:30",
+    "start_short_label": "01:30",
     "type": "Concert"
   },
   {
@@ -1578,6 +2490,44 @@
   },
   {
     "artists": [
+      "Van Tastik"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785405600,
+    "end_iso": "2026-07-30T12:00:00+02:00",
+    "end_label": "Thu 30.07. 12:00",
+    "end_short_label": "12:00",
+    "id": 3013,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785402900,
+    "start_iso": "2026-07-30T11:15:00+02:00",
+    "start_label": "Thu 30.07. 11:15",
+    "start_short_label": "11:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Tales of Nebelheym"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785405600,
+    "end_iso": "2026-07-30T12:00:00+02:00",
+    "end_label": "Thu 30.07. 12:00",
+    "end_short_label": "12:00",
+    "id": 3005,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785402900,
+    "start_iso": "2026-07-30T11:15:00+02:00",
+    "start_label": "Thu 30.07. 11:15",
+    "start_short_label": "11:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Novelization"
     ],
     "day": "Thursday",
@@ -1593,6 +2543,25 @@
     "start_iso": "2026-07-30T11:25:00+02:00",
     "start_label": "Thu 30.07. 11:25",
     "start_short_label": "11:25",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Mudfinger"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785407400,
+    "end_iso": "2026-07-30T12:30:00+02:00",
+    "end_label": "Thu 30.07. 12:30",
+    "end_short_label": "12:30",
+    "id": 2933,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785404700,
+    "start_iso": "2026-07-30T11:45:00+02:00",
+    "start_label": "Thu 30.07. 11:45",
+    "start_short_label": "11:45",
     "type": "Concert"
   },
   {
@@ -1692,6 +2661,44 @@
   },
   {
     "artists": [
+      "Sintram"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785411000,
+    "end_iso": "2026-07-30T13:30:00+02:00",
+    "end_label": "Thu 30.07. 13:30",
+    "end_short_label": "13:30",
+    "id": 3014,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785408300,
+    "start_iso": "2026-07-30T12:45:00+02:00",
+    "start_label": "Thu 30.07. 12:45",
+    "start_short_label": "12:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "The Trouble Notes"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785411000,
+    "end_iso": "2026-07-30T13:30:00+02:00",
+    "end_label": "Thu 30.07. 13:30",
+    "end_short_label": "13:30",
+    "id": 3006,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785408300,
+    "start_iso": "2026-07-30T12:45:00+02:00",
+    "start_label": "Thu 30.07. 12:45",
+    "start_short_label": "12:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Force"
     ],
     "day": "Thursday",
@@ -1707,6 +2714,25 @@
     "start_iso": "2026-07-30T13:05:00+02:00",
     "start_label": "Thu 30.07. 13:05",
     "start_short_label": "13:05",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Mudfinger"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785412800,
+    "end_iso": "2026-07-30T14:00:00+02:00",
+    "end_label": "Thu 30.07. 14:00",
+    "end_short_label": "14:00",
+    "id": 2935,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785410100,
+    "start_iso": "2026-07-30T13:15:00+02:00",
+    "start_label": "Thu 30.07. 13:15",
+    "start_short_label": "13:15",
     "type": "Concert"
   },
   {
@@ -1802,6 +2828,44 @@
     "start_iso": "2026-07-30T14:00:00+02:00",
     "start_label": "Thu 30.07. 14:00",
     "start_short_label": "14:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Sintram"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785416400,
+    "end_iso": "2026-07-30T15:00:00+02:00",
+    "end_label": "Thu 30.07. 15:00",
+    "end_short_label": "15:00",
+    "id": 3015,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785413700,
+    "start_iso": "2026-07-30T14:15:00+02:00",
+    "start_label": "Thu 30.07. 14:15",
+    "start_short_label": "14:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Lutz Drenkwitz"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785416400,
+    "end_iso": "2026-07-30T15:00:00+02:00",
+    "end_label": "Thu 30.07. 15:00",
+    "end_short_label": "15:00",
+    "id": 3007,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785413700,
+    "start_iso": "2026-07-30T14:15:00+02:00",
+    "start_label": "Thu 30.07. 14:15",
+    "start_short_label": "14:15",
     "type": "Concert"
   },
   {
@@ -1939,6 +3003,25 @@
   },
   {
     "artists": [
+      "Out Of The Cage - Godzilla in the Kitchen"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785420000,
+    "end_iso": "2026-07-30T16:00:00+02:00",
+    "end_label": "Thu 30.07. 16:00",
+    "end_short_label": "16:00",
+    "id": 2937,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785418200,
+    "start_iso": "2026-07-30T15:30:00+02:00",
+    "start_label": "Thu 30.07. 15:30",
+    "start_short_label": "15:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Days of Ruin"
     ],
     "day": "Thursday",
@@ -1969,6 +3052,44 @@
     "id": 2819,
     "stage": "LGH Clubstage",
     "stage_id": 21,
+    "start": 1785420000,
+    "start_iso": "2026-07-30T16:00:00+02:00",
+    "start_label": "Thu 30.07. 16:00",
+    "start_short_label": "16:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Whizbow"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785422700,
+    "end_iso": "2026-07-30T16:45:00+02:00",
+    "end_label": "Thu 30.07. 16:45",
+    "end_short_label": "16:45",
+    "id": 3016,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785420000,
+    "start_iso": "2026-07-30T16:00:00+02:00",
+    "start_label": "Thu 30.07. 16:00",
+    "start_short_label": "16:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Tales of Nebelheym"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785422700,
+    "end_iso": "2026-07-30T16:45:00+02:00",
+    "end_label": "Thu 30.07. 16:45",
+    "end_short_label": "16:45",
+    "id": 3008,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
     "start": 1785420000,
     "start_iso": "2026-07-30T16:00:00+02:00",
     "start_label": "Thu 30.07. 16:00",
@@ -2045,6 +3166,25 @@
     "id": 2683,
     "stage": "Wackinger Stage",
     "stage_id": 10,
+    "start": 1785422700,
+    "start_iso": "2026-07-30T16:45:00+02:00",
+    "start_label": "Thu 30.07. 16:45",
+    "start_short_label": "16:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out Of The Cage - Godzilla in the Kitchen"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785424500,
+    "end_iso": "2026-07-30T17:15:00+02:00",
+    "end_label": "Thu 30.07. 17:15",
+    "end_short_label": "17:15",
+    "id": 2938,
+    "stage": "Wasteland",
+    "stage_id": 16,
     "start": 1785422700,
     "start_iso": "2026-07-30T16:45:00+02:00",
     "start_label": "Thu 30.07. 16:45",
@@ -2148,6 +3288,63 @@
   },
   {
     "artists": [
+      "Van Tastik"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785429000,
+    "end_iso": "2026-07-30T18:30:00+02:00",
+    "end_label": "Thu 30.07. 18:30",
+    "end_short_label": "18:30",
+    "id": 3017,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785426300,
+    "start_iso": "2026-07-30T17:45:00+02:00",
+    "start_label": "Thu 30.07. 17:45",
+    "start_short_label": "17:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Mac Cabe & Kanaka"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785429000,
+    "end_iso": "2026-07-30T18:30:00+02:00",
+    "end_label": "Thu 30.07. 18:30",
+    "end_short_label": "18:30",
+    "id": 3009,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785426300,
+    "start_iso": "2026-07-30T17:45:00+02:00",
+    "start_label": "Thu 30.07. 17:45",
+    "start_short_label": "17:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Megabosch"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785429000,
+    "end_iso": "2026-07-30T18:30:00+02:00",
+    "end_label": "Thu 30.07. 18:30",
+    "end_short_label": "18:30",
+    "id": 2939,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785427200,
+    "start_iso": "2026-07-30T18:00:00+02:00",
+    "start_label": "Thu 30.07. 18:00",
+    "start_short_label": "18:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Spectral Wound"
     ],
     "day": "Thursday",
@@ -2243,6 +3440,25 @@
   },
   {
     "artists": [
+      "Out of the Cage - Give Me Rain"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785433500,
+    "end_iso": "2026-07-30T19:45:00+02:00",
+    "end_label": "Thu 30.07. 19:45",
+    "end_short_label": "19:45",
+    "id": 2940,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785431700,
+    "start_iso": "2026-07-30T19:15:00+02:00",
+    "start_label": "Thu 30.07. 19:15",
+    "start_short_label": "19:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "System of a Down by Anett & Livi Acoustic + Radó Éden"
     ],
     "day": "Thursday",
@@ -2258,6 +3474,44 @@
     "start_iso": "2026-07-30T19:15:00+02:00",
     "start_label": "Thu 30.07. 19:15",
     "start_short_label": "19:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Van Tastik"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785435300,
+    "end_iso": "2026-07-30T20:15:00+02:00",
+    "end_label": "Thu 30.07. 20:15",
+    "end_short_label": "20:15",
+    "id": 3018,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785432600,
+    "start_iso": "2026-07-30T19:30:00+02:00",
+    "start_label": "Thu 30.07. 19:30",
+    "start_short_label": "19:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Mac Cabe & Kanaka"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785435300,
+    "end_iso": "2026-07-30T20:15:00+02:00",
+    "end_label": "Thu 30.07. 20:15",
+    "end_short_label": "20:15",
+    "id": 3010,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785432600,
+    "start_iso": "2026-07-30T19:30:00+02:00",
+    "start_label": "Thu 30.07. 19:30",
+    "start_short_label": "19:30",
     "type": "Concert"
   },
   {
@@ -2376,6 +3630,44 @@
   },
   {
     "artists": [
+      "Whizbow"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785441600,
+    "end_iso": "2026-07-30T22:00:00+02:00",
+    "end_label": "Thu 30.07. 22:00",
+    "end_short_label": "22:00",
+    "id": 3019,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785438900,
+    "start_iso": "2026-07-30T21:15:00+02:00",
+    "start_label": "Thu 30.07. 21:15",
+    "start_short_label": "21:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "The Trouble Notes"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785441600,
+    "end_iso": "2026-07-30T22:00:00+02:00",
+    "end_label": "Thu 30.07. 22:00",
+    "end_short_label": "22:00",
+    "id": 3011,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785438900,
+    "start_iso": "2026-07-30T21:15:00+02:00",
+    "start_label": "Thu 30.07. 21:15",
+    "start_short_label": "21:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Evil Jared & Krogi"
     ],
     "day": "Thursday",
@@ -2471,6 +3763,25 @@
   },
   {
     "artists": [
+      "Out of the Cage - Give Me Rain"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785445200,
+    "end_iso": "2026-07-30T23:00:00+02:00",
+    "end_label": "Thu 30.07. 23:00",
+    "end_short_label": "23:00",
+    "id": 2942,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785442500,
+    "start_iso": "2026-07-30T22:15:00+02:00",
+    "start_label": "Thu 30.07. 22:15",
+    "start_short_label": "22:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Misþyrming & Nergal"
     ],
     "day": "Thursday",
@@ -2509,6 +3820,25 @@
   },
   {
     "artists": [
+      "Whizbow"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785448800,
+    "end_iso": "2026-07-31T00:00:00+02:00",
+    "end_label": "Fri 31.07. 00:00",
+    "end_short_label": "00:00",
+    "id": 3020,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785446100,
+    "start_iso": "2026-07-30T23:15:00+02:00",
+    "start_label": "Thu 30.07. 23:15",
+    "start_short_label": "23:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Cowgirls From Hell"
     ],
     "day": "Thursday",
@@ -2528,6 +3858,82 @@
   },
   {
     "artists": [
+      "Megabosch"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785450600,
+    "end_iso": "2026-07-31T00:30:00+02:00",
+    "end_label": "Fri 31.07. 00:30",
+    "end_short_label": "00:30",
+    "id": 2943,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785448800,
+    "start_iso": "2026-07-31T00:00:00+02:00",
+    "start_label": "Fri 31.07. 00:00",
+    "start_short_label": "00:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Mac Cabe & Kanaka"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785452400,
+    "end_iso": "2026-07-31T01:00:00+02:00",
+    "end_label": "Fri 31.07. 01:00",
+    "end_short_label": "01:00",
+    "id": 3012,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785449700,
+    "start_iso": "2026-07-31T00:15:00+02:00",
+    "start_label": "Fri 31.07. 00:15",
+    "start_short_label": "00:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Sintram"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785453300,
+    "end_iso": "2026-07-31T01:15:00+02:00",
+    "end_label": "Fri 31.07. 01:15",
+    "end_short_label": "01:15",
+    "id": 3021,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785450600,
+    "start_iso": "2026-07-31T00:30:00+02:00",
+    "start_label": "Fri 31.07. 00:30",
+    "start_short_label": "00:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Give Me Rain"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785455100,
+    "end_iso": "2026-07-31T01:45:00+02:00",
+    "end_label": "Fri 31.07. 01:45",
+    "end_short_label": "01:45",
+    "id": 2944,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785452400,
+    "start_iso": "2026-07-31T01:00:00+02:00",
+    "start_label": "Fri 31.07. 01:00",
+    "start_short_label": "01:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Metal Battle tba."
     ],
     "day": "Friday",
@@ -2543,6 +3949,44 @@
     "start_iso": "2026-07-31T11:00:00+02:00",
     "start_label": "Fri 31.07. 11:00",
     "start_short_label": "11:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Sintram"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785492000,
+    "end_iso": "2026-07-31T12:00:00+02:00",
+    "end_label": "Fri 31.07. 12:00",
+    "end_short_label": "12:00",
+    "id": 3035,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785489300,
+    "start_iso": "2026-07-31T11:15:00+02:00",
+    "start_label": "Fri 31.07. 11:15",
+    "start_short_label": "11:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Tales of Nebelheym"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785492000,
+    "end_iso": "2026-07-31T12:00:00+02:00",
+    "end_label": "Fri 31.07. 12:00",
+    "end_short_label": "12:00",
+    "id": 3045,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785489300,
+    "start_iso": "2026-07-31T11:15:00+02:00",
+    "start_label": "Fri 31.07. 11:15",
+    "start_short_label": "11:15",
     "type": "Concert"
   },
   {
@@ -2623,6 +4067,63 @@
   },
   {
     "artists": [
+      "Out of the Cage - Give Me Rain"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785496500,
+    "end_iso": "2026-07-31T13:15:00+02:00",
+    "end_label": "Fri 31.07. 13:15",
+    "end_short_label": "13:15",
+    "id": 2948,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785493800,
+    "start_iso": "2026-07-31T12:30:00+02:00",
+    "start_label": "Fri 31.07. 12:30",
+    "start_short_label": "12:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Mac Cabe & Kanaka"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785496500,
+    "end_iso": "2026-07-31T13:15:00+02:00",
+    "end_label": "Fri 31.07. 13:15",
+    "end_short_label": "13:15",
+    "id": 3036,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785494700,
+    "start_iso": "2026-07-31T12:45:00+02:00",
+    "start_label": "Fri 31.07. 12:45",
+    "start_short_label": "12:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Lutz Drenkwitz"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785496500,
+    "end_iso": "2026-07-31T13:15:00+02:00",
+    "end_label": "Fri 31.07. 13:15",
+    "end_short_label": "13:15",
+    "id": 3046,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785494700,
+    "start_iso": "2026-07-31T12:45:00+02:00",
+    "start_label": "Fri 31.07. 12:45",
+    "start_short_label": "12:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Employed To Serve"
     ],
     "day": "Friday",
@@ -2691,6 +4192,44 @@
     "id": 2706,
     "stage": "Louder",
     "stage_id": 6,
+    "start": 1785498300,
+    "start_iso": "2026-07-31T13:45:00+02:00",
+    "start_label": "Fri 31.07. 13:45",
+    "start_short_label": "13:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Van Tastik"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785500100,
+    "end_iso": "2026-07-31T14:15:00+02:00",
+    "end_label": "Fri 31.07. 14:15",
+    "end_short_label": "14:15",
+    "id": 3037,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785498300,
+    "start_iso": "2026-07-31T13:45:00+02:00",
+    "start_label": "Fri 31.07. 13:45",
+    "start_short_label": "13:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Tales of Nebelheym"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785500100,
+    "end_iso": "2026-07-31T14:15:00+02:00",
+    "end_label": "Fri 31.07. 14:15",
+    "end_short_label": "14:15",
+    "id": 3047,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
     "start": 1785498300,
     "start_iso": "2026-07-31T13:45:00+02:00",
     "start_label": "Fri 31.07. 13:45",
@@ -2775,6 +4314,44 @@
   },
   {
     "artists": [
+      "Out of the Cage - Give Me Rain"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785502800,
+    "end_iso": "2026-07-31T15:00:00+02:00",
+    "end_label": "Fri 31.07. 15:00",
+    "end_short_label": "15:00",
+    "id": 2950,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785501000,
+    "start_iso": "2026-07-31T14:30:00+02:00",
+    "start_label": "Fri 31.07. 14:30",
+    "start_short_label": "14:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Van Tastik"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785504600,
+    "end_iso": "2026-07-31T15:30:00+02:00",
+    "end_label": "Fri 31.07. 15:30",
+    "end_short_label": "15:30",
+    "id": 3038,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785502800,
+    "start_iso": "2026-07-31T15:00:00+02:00",
+    "start_label": "Fri 31.07. 15:00",
+    "start_short_label": "15:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Dead by April"
     ],
     "day": "Friday",
@@ -2786,6 +4363,25 @@
     "id": 2715,
     "stage": "W:E:T Stage",
     "stage_id": 8,
+    "start": 1785502800,
+    "start_iso": "2026-07-31T15:00:00+02:00",
+    "start_label": "Fri 31.07. 15:00",
+    "start_short_label": "15:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Sintram"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785504600,
+    "end_iso": "2026-07-31T15:30:00+02:00",
+    "end_label": "Fri 31.07. 15:30",
+    "end_short_label": "15:30",
+    "id": 3048,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
     "start": 1785502800,
     "start_iso": "2026-07-31T15:00:00+02:00",
     "start_label": "Fri 31.07. 15:00",
@@ -2908,6 +4504,63 @@
   },
   {
     "artists": [
+      "Whizbow"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785510000,
+    "end_iso": "2026-07-31T17:00:00+02:00",
+    "end_label": "Fri 31.07. 17:00",
+    "end_short_label": "17:00",
+    "id": 3039,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785507300,
+    "start_iso": "2026-07-31T16:15:00+02:00",
+    "start_label": "Fri 31.07. 16:15",
+    "start_short_label": "16:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "The Trouble Notes"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785510000,
+    "end_iso": "2026-07-31T17:00:00+02:00",
+    "end_label": "Fri 31.07. 17:00",
+    "end_short_label": "17:00",
+    "id": 3049,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785507300,
+    "start_iso": "2026-07-31T16:15:00+02:00",
+    "start_label": "Fri 31.07. 16:15",
+    "start_short_label": "16:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Give Me Rain"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785510900,
+    "end_iso": "2026-07-31T17:15:00+02:00",
+    "end_label": "Fri 31.07. 17:15",
+    "end_short_label": "17:15",
+    "id": 2952,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785509100,
+    "start_iso": "2026-07-31T16:45:00+02:00",
+    "start_label": "Fri 31.07. 16:45",
+    "start_short_label": "16:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Black Label Society"
     ],
     "day": "Friday",
@@ -3022,25 +4675,6 @@
   },
   {
     "artists": [
-      "Mambo Kurt"
-    ],
-    "day": "Friday",
-    "day_id": 36,
-    "end": 1785515400,
-    "end_iso": "2026-07-31T18:30:00+02:00",
-    "end_label": "Fri 31.07. 18:30",
-    "end_short_label": "18:30",
-    "id": 2860,
-    "stage": "Welcome To The Jungle",
-    "stage_id": 13,
-    "start": 1785511800,
-    "start_iso": "2026-07-31T17:30:00+02:00",
-    "start_label": "Fri 31.07. 17:30",
-    "start_short_label": "17:30",
-    "type": "Concert"
-  },
-  {
-    "artists": [
       "Pig Destroyer"
     ],
     "day": "Friday",
@@ -3052,6 +4686,63 @@
     "id": 2723,
     "stage": "Headbangers Stage",
     "stage_id": 7,
+    "start": 1785513600,
+    "start_iso": "2026-07-31T18:00:00+02:00",
+    "start_label": "Fri 31.07. 18:00",
+    "start_short_label": "18:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Mac Cabe & Kanaka"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785516300,
+    "end_iso": "2026-07-31T18:45:00+02:00",
+    "end_label": "Fri 31.07. 18:45",
+    "end_short_label": "18:45",
+    "id": 3040,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785513600,
+    "start_iso": "2026-07-31T18:00:00+02:00",
+    "start_label": "Fri 31.07. 18:00",
+    "start_short_label": "18:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Sintram"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785516300,
+    "end_iso": "2026-07-31T18:45:00+02:00",
+    "end_label": "Fri 31.07. 18:45",
+    "end_short_label": "18:45",
+    "id": 3050,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785513600,
+    "start_iso": "2026-07-31T18:00:00+02:00",
+    "start_label": "Fri 31.07. 18:00",
+    "start_short_label": "18:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Megabosch"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785515400,
+    "end_iso": "2026-07-31T18:30:00+02:00",
+    "end_label": "Fri 31.07. 18:30",
+    "end_short_label": "18:30",
+    "id": 2953,
+    "stage": "Wasteland",
+    "stage_id": 16,
     "start": 1785513600,
     "start_iso": "2026-07-31T18:00:00+02:00",
     "start_label": "Fri 31.07. 18:00",
@@ -3117,7 +4808,7 @@
   },
   {
     "artists": [
-      "TBA"
+      "Dovydas"
     ],
     "day": "Friday",
     "day_id": 36,
@@ -3174,6 +4865,25 @@
   },
   {
     "artists": [
+      "Out Of The Cage - Godzilla in the Kitchen"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785519900,
+    "end_iso": "2026-07-31T19:45:00+02:00",
+    "end_label": "Fri 31.07. 19:45",
+    "end_short_label": "19:45",
+    "id": 2954,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785518100,
+    "start_iso": "2026-07-31T19:15:00+02:00",
+    "start_label": "Fri 31.07. 19:15",
+    "start_short_label": "19:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "In Flames"
     ],
     "day": "Friday",
@@ -3185,6 +4895,44 @@
     "id": 2698,
     "stage": "Faster",
     "stage_id": 4,
+    "start": 1785519900,
+    "start_iso": "2026-07-31T19:45:00+02:00",
+    "start_label": "Fri 31.07. 19:45",
+    "start_short_label": "19:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Mac Cabe & Kanaka"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785522600,
+    "end_iso": "2026-07-31T20:30:00+02:00",
+    "end_label": "Fri 31.07. 20:30",
+    "end_short_label": "20:30",
+    "id": 3041,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785519900,
+    "start_iso": "2026-07-31T19:45:00+02:00",
+    "start_label": "Fri 31.07. 19:45",
+    "start_short_label": "19:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Lutz Drenkwitz"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785522600,
+    "end_iso": "2026-07-31T20:30:00+02:00",
+    "end_label": "Fri 31.07. 20:30",
+    "end_short_label": "20:30",
+    "id": 3051,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
     "start": 1785519900,
     "start_iso": "2026-07-31T19:45:00+02:00",
     "start_label": "Fri 31.07. 19:45",
@@ -3250,7 +4998,7 @@
   },
   {
     "artists": [
-      "TBA"
+      "Mambo Kurt"
     ],
     "day": "Friday",
     "day_id": 36,
@@ -3299,6 +5047,25 @@
     "id": 2710,
     "stage": "Louder",
     "stage_id": 6,
+    "start": 1785523500,
+    "start_iso": "2026-07-31T20:45:00+02:00",
+    "start_label": "Fri 31.07. 20:45",
+    "start_short_label": "20:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out Of The Cage - Godzilla in the Kitchen"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785525300,
+    "end_iso": "2026-07-31T21:15:00+02:00",
+    "end_label": "Fri 31.07. 21:15",
+    "end_short_label": "21:15",
+    "id": 2955,
+    "stage": "Wasteland",
+    "stage_id": 16,
     "start": 1785523500,
     "start_iso": "2026-07-31T20:45:00+02:00",
     "start_label": "Fri 31.07. 20:45",
@@ -3383,6 +5150,44 @@
   },
   {
     "artists": [
+      "Whizbow"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785528900,
+    "end_iso": "2026-07-31T22:15:00+02:00",
+    "end_label": "Fri 31.07. 22:15",
+    "end_short_label": "22:15",
+    "id": 3042,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785526200,
+    "start_iso": "2026-07-31T21:30:00+02:00",
+    "start_label": "Fri 31.07. 21:30",
+    "start_short_label": "21:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "The Trouble Notes"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785528900,
+    "end_iso": "2026-07-31T22:15:00+02:00",
+    "end_label": "Fri 31.07. 22:15",
+    "end_short_label": "22:15",
+    "id": 3052,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785526200,
+    "start_iso": "2026-07-31T21:30:00+02:00",
+    "start_label": "Fri 31.07. 21:30",
+    "start_short_label": "21:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Faun"
     ],
     "day": "Friday",
@@ -3394,6 +5199,25 @@
     "id": 2734,
     "stage": "Wackinger Stage",
     "stage_id": 10,
+    "start": 1785528900,
+    "start_iso": "2026-07-31T22:15:00+02:00",
+    "start_label": "Fri 31.07. 22:15",
+    "start_short_label": "22:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Mudfinger"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785531600,
+    "end_iso": "2026-07-31T23:00:00+02:00",
+    "end_label": "Fri 31.07. 23:00",
+    "end_short_label": "23:00",
+    "id": 2956,
+    "stage": "Wasteland",
+    "stage_id": 16,
     "start": 1785528900,
     "start_iso": "2026-07-31T22:15:00+02:00",
     "start_label": "Fri 31.07. 22:15",
@@ -3478,6 +5302,44 @@
   },
   {
     "artists": [
+      "Whizbow"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785535200,
+    "end_iso": "2026-08-01T00:00:00+02:00",
+    "end_label": "Sat 01.08. 00:00",
+    "end_short_label": "00:00",
+    "id": 3043,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785532500,
+    "start_iso": "2026-07-31T23:15:00+02:00",
+    "start_label": "Fri 31.07. 23:15",
+    "start_short_label": "23:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Tales of Nebelheym"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785535200,
+    "end_iso": "2026-08-01T00:00:00+02:00",
+    "end_label": "Sat 01.08. 00:00",
+    "end_short_label": "00:00",
+    "id": 3053,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785532500,
+    "start_iso": "2026-07-31T23:15:00+02:00",
+    "start_label": "Fri 31.07. 23:15",
+    "start_short_label": "23:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Skynd"
     ],
     "day": "Friday",
@@ -3497,6 +5359,25 @@
   },
   {
     "artists": [
+      "The Trouble Notes"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785538800,
+    "end_iso": "2026-08-01T01:00:00+02:00",
+    "end_label": "Sat 01.08. 01:00",
+    "end_short_label": "01:00",
+    "id": 3054,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785536100,
+    "start_iso": "2026-08-01T00:15:00+02:00",
+    "start_label": "Sat 01.08. 00:15",
+    "start_short_label": "00:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Subway to Sally"
     ],
     "day": "Friday",
@@ -3508,6 +5389,25 @@
     "id": 2712,
     "stage": "Louder",
     "stage_id": 6,
+    "start": 1785537900,
+    "start_iso": "2026-08-01T00:45:00+02:00",
+    "start_label": "Sat 01.08. 00:45",
+    "start_short_label": "00:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Van Tastik"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785540600,
+    "end_iso": "2026-08-01T01:30:00+02:00",
+    "end_label": "Sat 01.08. 01:30",
+    "end_short_label": "01:30",
+    "id": 3044,
+    "stage": "St. Port Church",
+    "stage_id": 23,
     "start": 1785537900,
     "start_iso": "2026-08-01T00:45:00+02:00",
     "start_label": "Sat 01.08. 00:45",
@@ -3554,7 +5454,26 @@
   },
   {
     "artists": [
-      "TBA"
+      "Mac Cabe & Kanaka"
+    ],
+    "day": "Friday",
+    "day_id": 36,
+    "end": 1785541500,
+    "end_iso": "2026-08-01T01:45:00+02:00",
+    "end_label": "Sat 01.08. 01:45",
+    "end_short_label": "01:45",
+    "id": 3055,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785539700,
+    "start_iso": "2026-08-01T01:15:00+02:00",
+    "start_label": "Sat 01.08. 01:15",
+    "start_short_label": "01:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Torsten Sträter"
     ],
     "day": "Saturday",
     "day_id": 37,
@@ -3630,7 +5549,7 @@
   },
   {
     "artists": [
-      "TBA"
+      "Adrian Pauls Rockin' Roncalli Show"
     ],
     "day": "Saturday",
     "day_id": 37,
@@ -3683,6 +5602,63 @@
     "start_iso": "2026-08-01T12:30:00+02:00",
     "start_label": "Sat 01.08. 12:30",
     "start_short_label": "12:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Mudfinger"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785582900,
+    "end_iso": "2026-08-01T13:15:00+02:00",
+    "end_label": "Sat 01.08. 13:15",
+    "end_short_label": "13:15",
+    "id": 2960,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785580200,
+    "start_iso": "2026-08-01T12:30:00+02:00",
+    "start_label": "Sat 01.08. 12:30",
+    "start_short_label": "12:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Sintram"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785583800,
+    "end_iso": "2026-08-01T13:30:00+02:00",
+    "end_label": "Sat 01.08. 13:30",
+    "end_short_label": "13:30",
+    "id": 3073,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785581100,
+    "start_iso": "2026-08-01T12:45:00+02:00",
+    "start_label": "Sat 01.08. 12:45",
+    "start_short_label": "12:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Tales of Nebelheym"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785583800,
+    "end_iso": "2026-08-01T13:30:00+02:00",
+    "end_label": "Sat 01.08. 13:30",
+    "end_short_label": "13:30",
+    "id": 3056,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785581100,
+    "start_iso": "2026-08-01T12:45:00+02:00",
+    "start_label": "Sat 01.08. 12:45",
+    "start_short_label": "12:45",
     "type": "Concert"
   },
   {
@@ -3782,7 +5758,7 @@
   },
   {
     "artists": [
-      "TBA"
+      "Doc Burner"
     ],
     "day": "Saturday",
     "day_id": 37,
@@ -3797,6 +5773,63 @@
     "start_iso": "2026-08-01T14:00:00+02:00",
     "start_label": "Sat 01.08. 14:00",
     "start_short_label": "14:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Mac Cabe & Kanaka"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785589200,
+    "end_iso": "2026-08-01T15:00:00+02:00",
+    "end_label": "Sat 01.08. 15:00",
+    "end_short_label": "15:00",
+    "id": 3074,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785586500,
+    "start_iso": "2026-08-01T14:15:00+02:00",
+    "start_label": "Sat 01.08. 14:15",
+    "start_short_label": "14:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Lutz Drenkwitz"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785589200,
+    "end_iso": "2026-08-01T15:00:00+02:00",
+    "end_label": "Sat 01.08. 15:00",
+    "end_short_label": "15:00",
+    "id": 3057,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785586500,
+    "start_iso": "2026-08-01T14:15:00+02:00",
+    "start_label": "Sat 01.08. 14:15",
+    "start_short_label": "14:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Mudfinger"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785589200,
+    "end_iso": "2026-08-01T15:00:00+02:00",
+    "end_label": "Sat 01.08. 15:00",
+    "end_short_label": "15:00",
+    "id": 2962,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785587400,
+    "start_iso": "2026-08-01T14:30:00+02:00",
+    "start_label": "Sat 01.08. 14:30",
+    "start_short_label": "14:30",
     "type": "Concert"
   },
   {
@@ -3915,6 +5948,44 @@
   },
   {
     "artists": [
+      "Whizbow"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785595500,
+    "end_iso": "2026-08-01T16:45:00+02:00",
+    "end_label": "Sat 01.08. 16:45",
+    "end_short_label": "16:45",
+    "id": 3075,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785592800,
+    "start_iso": "2026-08-01T16:00:00+02:00",
+    "start_label": "Sat 01.08. 16:00",
+    "start_short_label": "16:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "The Trouble Notes"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785595500,
+    "end_iso": "2026-08-01T16:45:00+02:00",
+    "end_label": "Sat 01.08. 16:45",
+    "end_short_label": "16:45",
+    "id": 3058,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785592800,
+    "start_iso": "2026-08-01T16:00:00+02:00",
+    "start_label": "Sat 01.08. 16:00",
+    "start_short_label": "16:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Asrock"
     ],
     "day": "Saturday",
@@ -3964,6 +6035,25 @@
     "id": 2778,
     "stage": "Wackinger Stage",
     "stage_id": 10,
+    "start": 1785595500,
+    "start_iso": "2026-08-01T16:45:00+02:00",
+    "start_label": "Sat 01.08. 16:45",
+    "start_short_label": "16:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Van Tastik"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785597300,
+    "end_iso": "2026-08-01T17:15:00+02:00",
+    "end_label": "Sat 01.08. 17:15",
+    "end_short_label": "17:15",
+    "id": 2964,
+    "stage": "Wasteland",
+    "stage_id": 16,
     "start": 1785595500,
     "start_iso": "2026-08-01T16:45:00+02:00",
     "start_label": "Sat 01.08. 16:45",
@@ -4048,6 +6138,44 @@
   },
   {
     "artists": [
+      "Mac Cabe & Kanaka"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785601800,
+    "end_iso": "2026-08-01T18:30:00+02:00",
+    "end_label": "Sat 01.08. 18:30",
+    "end_short_label": "18:30",
+    "id": 3076,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785599100,
+    "start_iso": "2026-08-01T17:45:00+02:00",
+    "start_label": "Sat 01.08. 17:45",
+    "start_short_label": "17:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Tales of Nebelheym"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785601800,
+    "end_iso": "2026-08-01T18:30:00+02:00",
+    "end_label": "Sat 01.08. 18:30",
+    "end_short_label": "18:30",
+    "id": 3059,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785599100,
+    "start_iso": "2026-08-01T17:45:00+02:00",
+    "start_label": "Sat 01.08. 17:45",
+    "start_short_label": "17:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Municipal Waste"
     ],
     "day": "Saturday",
@@ -4059,6 +6187,25 @@
     "id": 2771,
     "stage": "Headbangers Stage",
     "stage_id": 7,
+    "start": 1785600000,
+    "start_iso": "2026-08-01T18:00:00+02:00",
+    "start_label": "Sat 01.08. 18:00",
+    "start_short_label": "18:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out of the Cage - Van Tastik"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785601800,
+    "end_iso": "2026-08-01T18:30:00+02:00",
+    "end_label": "Sat 01.08. 18:30",
+    "end_short_label": "18:30",
+    "id": 2965,
+    "stage": "Wasteland",
+    "stage_id": 16,
     "start": 1785600000,
     "start_iso": "2026-08-01T18:00:00+02:00",
     "start_label": "Sat 01.08. 18:00",
@@ -4181,6 +6328,63 @@
   },
   {
     "artists": [
+      "Megabosch"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785606300,
+    "end_iso": "2026-08-01T19:45:00+02:00",
+    "end_label": "Sat 01.08. 19:45",
+    "end_short_label": "19:45",
+    "id": 2966,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785604500,
+    "start_iso": "2026-08-01T19:15:00+02:00",
+    "start_label": "Sat 01.08. 19:15",
+    "start_short_label": "19:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Sintram"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785608100,
+    "end_iso": "2026-08-01T20:15:00+02:00",
+    "end_label": "Sat 01.08. 20:15",
+    "end_short_label": "20:15",
+    "id": 3077,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785605400,
+    "start_iso": "2026-08-01T19:30:00+02:00",
+    "start_label": "Sat 01.08. 19:30",
+    "start_short_label": "19:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "The Trouble Notes"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785608100,
+    "end_iso": "2026-08-01T20:15:00+02:00",
+    "end_label": "Sat 01.08. 20:15",
+    "end_short_label": "20:15",
+    "id": 3060,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785605400,
+    "start_iso": "2026-08-01T19:30:00+02:00",
+    "start_label": "Sat 01.08. 19:30",
+    "start_short_label": "19:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Castle Rat"
     ],
     "day": "Saturday",
@@ -4276,6 +6480,25 @@
   },
   {
     "artists": [
+      "Out Of The Cage - Godzilla in the Kitchen"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785612600,
+    "end_iso": "2026-08-01T21:30:00+02:00",
+    "end_label": "Sat 01.08. 21:30",
+    "end_short_label": "21:30",
+    "id": 2967,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785609900,
+    "start_iso": "2026-08-01T20:45:00+02:00",
+    "start_label": "Sat 01.08. 20:45",
+    "start_short_label": "20:45",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Alien Rockin Explosion"
     ],
     "day": "Saturday",
@@ -4295,6 +6518,25 @@
   },
   {
     "artists": [
+      "Whizbow"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785614400,
+    "end_iso": "2026-08-01T22:00:00+02:00",
+    "end_label": "Sat 01.08. 22:00",
+    "end_short_label": "22:00",
+    "id": 3078,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785611700,
+    "start_iso": "2026-08-01T21:15:00+02:00",
+    "start_label": "Sat 01.08. 21:15",
+    "start_short_label": "21:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Corrosion of Conformity"
     ],
     "day": "Saturday",
@@ -4306,6 +6548,25 @@
     "id": 2766,
     "stage": "W:E:T Stage",
     "stage_id": 8,
+    "start": 1785611700,
+    "start_iso": "2026-08-01T21:15:00+02:00",
+    "start_label": "Sat 01.08. 21:15",
+    "start_short_label": "21:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Lutz Drenkwitz"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785614400,
+    "end_iso": "2026-08-01T22:00:00+02:00",
+    "end_label": "Sat 01.08. 22:00",
+    "end_short_label": "22:00",
+    "id": 3061,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
     "start": 1785611700,
     "start_iso": "2026-08-01T21:15:00+02:00",
     "start_label": "Sat 01.08. 21:15",
@@ -4447,6 +6708,44 @@
   },
   {
     "artists": [
+      "Whizbow"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785621600,
+    "end_iso": "2026-08-02T00:00:00+02:00",
+    "end_label": "Sun 02.08. 00:00",
+    "end_short_label": "00:00",
+    "id": 3079,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785618900,
+    "start_iso": "2026-08-01T23:15:00+02:00",
+    "start_label": "Sat 01.08. 23:15",
+    "start_short_label": "23:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Lutz Drenkwitz"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785621600,
+    "end_iso": "2026-08-02T00:00:00+02:00",
+    "end_label": "Sun 02.08. 00:00",
+    "end_short_label": "00:00",
+    "id": 3062,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785618900,
+    "start_iso": "2026-08-01T23:15:00+02:00",
+    "start_label": "Sat 01.08. 23:15",
+    "start_short_label": "23:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Fit For An Autopsy"
     ],
     "day": "Saturday",
@@ -4466,6 +6765,44 @@
   },
   {
     "artists": [
+      "Out Of The Cage - Godzilla in the Kitchen"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785623400,
+    "end_iso": "2026-08-02T00:30:00+02:00",
+    "end_label": "Sun 02.08. 00:30",
+    "end_short_label": "00:30",
+    "id": 2969,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785621600,
+    "start_iso": "2026-08-02T00:00:00+02:00",
+    "start_label": "Sun 02.08. 00:00",
+    "start_short_label": "00:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Tales of Nebelheym"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785624300,
+    "end_iso": "2026-08-02T00:45:00+02:00",
+    "end_label": "Sun 02.08. 00:45",
+    "end_short_label": "00:45",
+    "id": 3063,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
+    "start": 1785622500,
+    "start_iso": "2026-08-02T00:15:00+02:00",
+    "start_label": "Sun 02.08. 00:15",
+    "start_short_label": "00:15",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "TBA"
     ],
     "day": "Saturday",
@@ -4481,6 +6818,44 @@
     "start_iso": "2026-08-02T00:30:00+02:00",
     "start_label": "Sun 02.08. 00:30",
     "start_short_label": "00:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Out Of The Cage - Godzilla in the Kitchen"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785625860,
+    "end_iso": "2026-08-02T01:11:00+02:00",
+    "end_label": "Sun 02.08. 01:11",
+    "end_short_label": "01:11",
+    "id": 2970,
+    "stage": "Wasteland",
+    "stage_id": 16,
+    "start": 1785623460,
+    "start_iso": "2026-08-02T00:31:00+02:00",
+    "start_label": "Sun 02.08. 00:31",
+    "start_short_label": "00:31",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Van Tastik"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785627000,
+    "end_iso": "2026-08-02T01:30:00+02:00",
+    "end_label": "Sun 02.08. 01:30",
+    "end_short_label": "01:30",
+    "id": 3080,
+    "stage": "St. Port Church",
+    "stage_id": 23,
+    "start": 1785624300,
+    "start_iso": "2026-08-02T00:45:00+02:00",
+    "start_label": "Sun 02.08. 00:45",
+    "start_short_label": "00:45",
     "type": "Concert"
   },
   {
@@ -4515,6 +6890,25 @@
     "id": 2774,
     "stage": "Headbangers Stage",
     "stage_id": 7,
+    "start": 1785625200,
+    "start_iso": "2026-08-02T01:00:00+02:00",
+    "start_label": "Sun 02.08. 01:00",
+    "start_short_label": "01:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Mac Cabe & Kanaka"
+    ],
+    "day": "Saturday",
+    "day_id": 37,
+    "end": 1785627900,
+    "end_iso": "2026-08-02T01:45:00+02:00",
+    "end_label": "Sun 02.08. 01:45",
+    "end_short_label": "01:45",
+    "id": 3064,
+    "stage": "Wackinger Beergarden",
+    "stage_id": 25,
     "start": 1785625200,
     "start_iso": "2026-08-02T01:00:00+02:00",
     "start_label": "Sun 02.08. 01:00",
