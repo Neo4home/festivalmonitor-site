@@ -3040,7 +3040,9 @@
     "type": "Concert"
   },
   {
-    "artists": [],
+    "artists": [
+      "Heaven Shall Burn"
+    ],
     "day": "Thursday",
     "day_id": 35,
     "end": 1785423600,

@@ -1,13 +1,13 @@
 {
   "event_count": 364,
-  "generated_at": "2026-08-01T20:56:25.338424+00:00",
-  "generated_label": "01.08.2026 22:56",
-  "hash": "54122da85d3e89de7a32ed631f9c6b30e98553ef895426949c097200d1ce3563",
-  "last_change_detected_at": "2026-08-01T00:01:10.118383+00:00",
-  "last_change_detected_label": "01.08.2026 02:01",
-  "last_checked_at": "2026-08-01T20:56:25.321823+00:00",
-  "last_checked_label": "01.08.2026 22:56",
-  "source_last_modified": "Fri, 31 Jul 2026 16:02:21 GMT",
-  "source_last_modified_label": "31.07.2026 18:02",
+  "generated_at": "2026-08-01T23:41:08.097089+00:00",
+  "generated_label": "02.08.2026 01:41",
+  "hash": "4888e89294a747ec31988050e86339577a9213579f420116575f3a367da695d3",
+  "last_change_detected_at": "2026-08-01T23:41:08.082434+00:00",
+  "last_change_detected_label": "02.08.2026 01:41",
+  "last_checked_at": "2026-08-01T23:41:08.082414+00:00",
+  "last_checked_label": "02.08.2026 01:41",
+  "source_last_modified": "Sat, 01 Aug 2026 23:38:03 GMT",
+  "source_last_modified_label": "02.08.2026 01:38",
   "timezone": "Europe/Berlin"
 }

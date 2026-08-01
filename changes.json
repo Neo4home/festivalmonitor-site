@@ -1,224 +1,8 @@
 {
-  "added": [
-    {
-      "artists": [
-        "Kalle 4 World Leader"
-      ],
-      "day": "Sunday",
-      "day_id": 31,
-      "end": 1785093300,
-      "id": 3086,
-      "stage": "Welcome To The Jungle",
-      "stage_id": 13,
-      "start": 1785090600,
-      "type": "Concert"
-    },
-    {
-      "artists": [
-        "Mandowar"
-      ],
-      "day": "Sunday",
-      "day_id": 31,
-      "end": 1785097800,
-      "id": 3087,
-      "stage": "Welcome To The Jungle",
-      "stage_id": 13,
-      "start": 1785094200,
-      "type": "Concert"
-    },
-    {
-      "artists": [
-        "Corrupted Blood - Pit Session"
-      ],
-      "day": "Thursday",
-      "day_id": 35,
-      "end": 1785441600,
-      "id": 3083,
-      "stage": "LGH Clubstage",
-      "stage_id": 21,
-      "start": 1785430800,
-      "type": "Concert"
-    },
-    {
-      "artists": [
-        "Andreas Kümmert"
-      ],
-      "day": "Saturday",
-      "day_id": 37,
-      "end": 1785602700,
-      "id": 3149,
-      "stage": "Welcome To The Jungle",
-      "stage_id": 13,
-      "start": 1785600000,
-      "type": "Concert"
-    }
-  ],
+  "added": [],
   "changed": [
     {
       "after": {
-        "artists": [
-          "Acoustic Guerillas feat Ellerbek Pussyboys"
-        ],
-        "day": "Sunday",
-        "day_id": 31,
-        "end": 1785089700,
-        "id": 2826,
-        "stage": "Welcome To The Jungle",
-        "stage_id": 13,
-        "start": 1785087000,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Acoustic Guerillas feat Ellerbek Pussyboys"
-        ],
-        "day": "Sunday",
-        "day_id": 31,
-        "end": 1785090600,
-        "id": 2826,
-        "stage": "Welcome To The Jungle",
-        "stage_id": 13,
-        "start": 1785087900,
-        "type": "Concert"
-      },
-      "fields": {
-        "end": {
-          "new": 1785089700,
-          "old": 1785090600
-        },
-        "start": {
-          "new": 1785087000,
-          "old": 1785087900
-        }
-      },
-      "id": 2826
-    },
-    {
-      "after": {
-        "artists": [
-          "Skyline"
-        ],
-        "day": "Sunday",
-        "day_id": 31,
-        "end": 1785094200,
-        "id": 2797,
-        "stage": "LGH Clubstage",
-        "stage_id": 21,
-        "start": 1785088800,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Skyline"
-        ],
-        "day": "Sunday",
-        "day_id": 31,
-        "end": 1785100500,
-        "id": 2797,
-        "stage": "LGH Clubstage",
-        "stage_id": 21,
-        "start": 1785096000,
-        "type": "Concert"
-      },
-      "fields": {
-        "end": {
-          "new": 1785094200,
-          "old": 1785100500
-        },
-        "start": {
-          "new": 1785088800,
-          "old": 1785096000
-        }
-      },
-      "id": 2797
-    },
-    {
-      "after": {
-        "artists": [
-          "Metal Karaoke Massacre"
-        ],
-        "day": "Sunday",
-        "day_id": 31,
-        "end": 1785114000,
-        "id": 2798,
-        "stage": "LGH Clubstage",
-        "stage_id": 21,
-        "start": 1785097800,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Metal Karaoke Massacre"
-        ],
-        "day": "Sunday",
-        "day_id": 31,
-        "end": 1785114000,
-        "id": 2798,
-        "stage": "LGH Clubstage",
-        "stage_id": 21,
-        "start": 1785101400,
-        "type": "Concert"
-      },
-      "fields": {
-        "start": {
-          "new": 1785097800,
-          "old": 1785101400
-        }
-      },
-      "id": 2798
-    },
-    {
-      "after": {
-        "artists": [
-          "Save Your Last Breath"
-        ],
-        "day": "Monday",
-        "day_id": 32,
-        "end": 1785176100,
-        "id": 2801,
-        "stage": "LGH Clubstage",
-        "stage_id": 21,
-        "start": 1785173400,
-        "type": "Concert"
-      },
-      "before": {
-        "artists": [
-          "Dry And Shattered"
-        ],
-        "day": "Monday",
-        "day_id": 32,
-        "end": 1785176100,
-        "id": 2801,
-        "stage": "LGH Clubstage",
-        "stage_id": 21,
-        "start": 1785173400,
-        "type": "Concert"
-      },
-      "fields": {
-        "artists": {
-          "new": [
-            "Save Your Last Breath"
-          ],
-          "old": [
-            "Dry And Shattered"
-          ]
-        }
-      },
-      "id": 2801
-    },
-    {
-      "after": {
-        "artists": [],
-        "day": "Thursday",
-        "day_id": 35,
-        "end": 1785423600,
-        "id": 2819,
-        "stage": "LGH Clubstage",
-        "stage_id": 21,
-        "start": 1785420000,
-        "type": "Concert"
-      },
-      "before": {
         "artists": [
           "Heaven Shall Burn"
         ],
@@ -231,113 +15,32 @@
         "start": 1785420000,
         "type": "Concert"
       },
-      "fields": {
-        "artists": {
-          "new": [],
-          "old": [
-            "Heaven Shall Burn"
-          ]
-        }
-      },
-      "id": 2819
-    },
-    {
-      "after": {
-        "artists": [
-          "Sventevith"
-        ],
-        "day": "Thursday",
-        "day_id": 35,
-        "end": 1785448800,
-        "id": 2669,
-        "stage": "W:E:T Stage",
-        "stage_id": 8,
-        "start": 1785445200,
-        "type": "Concert"
-      },
       "before": {
-        "artists": [
-          "Misþyrming & Nergal"
-        ],
+        "artists": [],
         "day": "Thursday",
         "day_id": 35,
-        "end": 1785448800,
-        "id": 2669,
-        "stage": "W:E:T Stage",
-        "stage_id": 8,
-        "start": 1785445200,
+        "end": 1785423600,
+        "id": 2819,
+        "stage": "LGH Clubstage",
+        "stage_id": 21,
+        "start": 1785420000,
         "type": "Concert"
       },
       "fields": {
         "artists": {
           "new": [
-            "Sventevith"
+            "Heaven Shall Burn"
           ],
-          "old": [
-            "Misþyrming & Nergal"
-          ]
+          "old": []
         }
       },
-      "id": 2669
+      "id": 2819
     }
   ],
-  "removed": [
-    {
-      "artists": [
-        "Mandowar"
-      ],
-      "day": "Sunday",
-      "day_id": 31,
-      "end": 1785092400,
-      "id": 2907,
-      "stage": "Feuerwehrtruck \"Entrance Bullhead\"",
-      "stage_id": 27,
-      "start": 1785088800,
-      "type": "Concert"
-    },
-    {
-      "artists": [
-        "Jäst"
-      ],
-      "day": "Sunday",
-      "day_id": 31,
-      "end": 1785092400,
-      "id": 2796,
-      "stage": "LGH Clubstage",
-      "stage_id": 21,
-      "start": 1785088800,
-      "type": "Concert"
-    },
-    {
-      "artists": [
-        "Mambo Kurt"
-      ],
-      "day": "Saturday",
-      "day_id": 37,
-      "end": 1785603600,
-      "id": 2869,
-      "stage": "Welcome To The Jungle",
-      "stage_id": 13,
-      "start": 1785600000,
-      "type": "Concert"
-    },
-    {
-      "artists": [
-        "TBA"
-      ],
-      "day": "Saturday",
-      "day_id": 37,
-      "end": 1785625860,
-      "id": 2790,
-      "stage": "Wasteland Stage",
-      "stage_id": 11,
-      "start": 1785623400,
-      "type": "Concert"
-    }
-  ],
+  "removed": [],
   "summary": {
-    "added": 4,
-    "changed": 6,
-    "removed": 4
+    "added": 0,
+    "changed": 1,
+    "removed": 0
   }
 }
