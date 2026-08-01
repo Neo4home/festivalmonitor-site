@@ -100,55 +100,17 @@
     ],
     "day": "Sunday",
     "day_id": 31,
-    "end": 1785090600,
-    "end_iso": "2026-07-26T20:30:00+02:00",
-    "end_label": "Sun 26.07. 20:30",
-    "end_short_label": "20:30",
+    "end": 1785089700,
+    "end_iso": "2026-07-26T20:15:00+02:00",
+    "end_label": "Sun 26.07. 20:15",
+    "end_short_label": "20:15",
     "id": 2826,
     "stage": "Welcome To The Jungle",
     "stage_id": 13,
-    "start": 1785087900,
-    "start_iso": "2026-07-26T19:45:00+02:00",
-    "start_label": "Sun 26.07. 19:45",
-    "start_short_label": "19:45",
-    "type": "Concert"
-  },
-  {
-    "artists": [
-      "Mandowar"
-    ],
-    "day": "Sunday",
-    "day_id": 31,
-    "end": 1785092400,
-    "end_iso": "2026-07-26T21:00:00+02:00",
-    "end_label": "Sun 26.07. 21:00",
-    "end_short_label": "21:00",
-    "id": 2907,
-    "stage": "Feuerwehrtruck \"Entrance Bullhead\"",
-    "stage_id": 27,
-    "start": 1785088800,
-    "start_iso": "2026-07-26T20:00:00+02:00",
-    "start_label": "Sun 26.07. 20:00",
-    "start_short_label": "20:00",
-    "type": "Concert"
-  },
-  {
-    "artists": [
-      "Jäst"
-    ],
-    "day": "Sunday",
-    "day_id": 31,
-    "end": 1785092400,
-    "end_iso": "2026-07-26T21:00:00+02:00",
-    "end_label": "Sun 26.07. 21:00",
-    "end_short_label": "21:00",
-    "id": 2796,
-    "stage": "LGH Clubstage",
-    "stage_id": 21,
-    "start": 1785088800,
-    "start_iso": "2026-07-26T20:00:00+02:00",
-    "start_label": "Sun 26.07. 20:00",
-    "start_short_label": "20:00",
+    "start": 1785087000,
+    "start_iso": "2026-07-26T19:30:00+02:00",
+    "start_label": "Sun 26.07. 19:30",
+    "start_short_label": "19:30",
     "type": "Concert"
   },
   {
@@ -157,17 +119,55 @@
     ],
     "day": "Sunday",
     "day_id": 31,
-    "end": 1785100500,
-    "end_iso": "2026-07-26T23:15:00+02:00",
-    "end_label": "Sun 26.07. 23:15",
-    "end_short_label": "23:15",
+    "end": 1785094200,
+    "end_iso": "2026-07-26T21:30:00+02:00",
+    "end_label": "Sun 26.07. 21:30",
+    "end_short_label": "21:30",
     "id": 2797,
     "stage": "LGH Clubstage",
     "stage_id": 21,
-    "start": 1785096000,
-    "start_iso": "2026-07-26T22:00:00+02:00",
-    "start_label": "Sun 26.07. 22:00",
-    "start_short_label": "22:00",
+    "start": 1785088800,
+    "start_iso": "2026-07-26T20:00:00+02:00",
+    "start_label": "Sun 26.07. 20:00",
+    "start_short_label": "20:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Kalle 4 World Leader"
+    ],
+    "day": "Sunday",
+    "day_id": 31,
+    "end": 1785093300,
+    "end_iso": "2026-07-26T21:15:00+02:00",
+    "end_label": "Sun 26.07. 21:15",
+    "end_short_label": "21:15",
+    "id": 3086,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785090600,
+    "start_iso": "2026-07-26T20:30:00+02:00",
+    "start_label": "Sun 26.07. 20:30",
+    "start_short_label": "20:30",
+    "type": "Concert"
+  },
+  {
+    "artists": [
+      "Mandowar"
+    ],
+    "day": "Sunday",
+    "day_id": 31,
+    "end": 1785097800,
+    "end_iso": "2026-07-26T22:30:00+02:00",
+    "end_label": "Sun 26.07. 22:30",
+    "end_short_label": "22:30",
+    "id": 3087,
+    "stage": "Welcome To The Jungle",
+    "stage_id": 13,
+    "start": 1785094200,
+    "start_iso": "2026-07-26T21:30:00+02:00",
+    "start_label": "Sun 26.07. 21:30",
+    "start_short_label": "21:30",
     "type": "Concert"
   },
   {
@@ -183,10 +183,10 @@
     "id": 2798,
     "stage": "LGH Clubstage",
     "stage_id": 21,
-    "start": 1785101400,
-    "start_iso": "2026-07-26T23:30:00+02:00",
-    "start_label": "Sun 26.07. 23:30",
-    "start_short_label": "23:30",
+    "start": 1785097800,
+    "start_iso": "2026-07-26T22:30:00+02:00",
+    "start_label": "Sun 26.07. 22:30",
+    "start_short_label": "22:30",
     "type": "Concert"
   },
   {
@@ -362,7 +362,7 @@
   },
   {
     "artists": [
-      "Dry And Shattered"
+      "Save Your Last Breath"
     ],
     "day": "Monday",
     "day_id": 32,
@@ -3040,9 +3040,7 @@
     "type": "Concert"
   },
   {
-    "artists": [
-      "Heaven Shall Burn"
-    ],
+    "artists": [],
     "day": "Thursday",
     "day_id": 35,
     "end": 1785423600,
@@ -3421,6 +3419,25 @@
   },
   {
     "artists": [
+      "Corrupted Blood - Pit Session"
+    ],
+    "day": "Thursday",
+    "day_id": 35,
+    "end": 1785441600,
+    "end_iso": "2026-07-30T22:00:00+02:00",
+    "end_label": "Thu 30.07. 22:00",
+    "end_short_label": "22:00",
+    "id": 3083,
+    "stage": "LGH Clubstage",
+    "stage_id": 21,
+    "start": 1785430800,
+    "start_iso": "2026-07-30T19:00:00+02:00",
+    "start_label": "Thu 30.07. 19:00",
+    "start_short_label": "19:00",
+    "type": "Concert"
+  },
+  {
+    "artists": [
       "Blood Red Throne"
     ],
     "day": "Thursday",
@@ -3782,7 +3799,7 @@
   },
   {
     "artists": [
-      "Misþyrming & Nergal"
+      "Sventevith"
     ],
     "day": "Thursday",
     "day_id": 35,
@@ -6214,15 +6231,15 @@
   },
   {
     "artists": [
-      "Mambo Kurt"
+      "Andreas Kümmert"
     ],
     "day": "Saturday",
     "day_id": 37,
-    "end": 1785603600,
-    "end_iso": "2026-08-01T19:00:00+02:00",
-    "end_label": "Sat 01.08. 19:00",
-    "end_short_label": "19:00",
-    "id": 2869,
+    "end": 1785602700,
+    "end_iso": "2026-08-01T18:45:00+02:00",
+    "end_label": "Sat 01.08. 18:45",
+    "end_short_label": "18:45",
+    "id": 3149,
     "stage": "Welcome To The Jungle",
     "stage_id": 13,
     "start": 1785600000,
@@ -6799,25 +6816,6 @@
     "start_iso": "2026-08-02T00:15:00+02:00",
     "start_label": "Sun 02.08. 00:15",
     "start_short_label": "00:15",
-    "type": "Concert"
-  },
-  {
-    "artists": [
-      "TBA"
-    ],
-    "day": "Saturday",
-    "day_id": 37,
-    "end": 1785625860,
-    "end_iso": "2026-08-02T01:11:00+02:00",
-    "end_label": "Sun 02.08. 01:11",
-    "end_short_label": "01:11",
-    "id": 2790,
-    "stage": "Wasteland Stage",
-    "stage_id": 11,
-    "start": 1785623400,
-    "start_iso": "2026-08-02T00:30:00+02:00",
-    "start_label": "Sun 02.08. 00:30",
-    "start_short_label": "00:30",
     "type": "Concert"
   },
   {
